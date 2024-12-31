@@ -1,3 +1,4 @@
+import json
 from bs4 import BeautifulSoup
 import httpx
 import requests
@@ -68,12 +69,16 @@ try:
         commtext = article.find(class_="commtext")
         ind = article.find(class_="ind")
         if commtext and ind and ind.get("indent") == "0":
-            top_level_comments.append(commtext.get_text(strip=True))
+            top_level_comments.append({"comment": commtext.get_text(strip=True)})
 
-    # Output results
-    print(f"Number of top-level comments: {len(top_level_comments)}")
-    for idx, comment in enumerate(top_level_comments, start=1):
-        print(f"{idx}: {comment}")
+    # Output results in JSON format
+    result = {
+        "url": url,
+        "total_comments": len(top_level_comments),
+        "comments": top_level_comments,
+    }
+
+    print(json.dumps(result, indent=4))  # Pretty print the JSON
 
 except Exception as e:
     print(f"Error: {e}")
