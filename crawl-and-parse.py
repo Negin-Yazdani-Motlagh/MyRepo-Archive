@@ -1,112 +1,79 @@
-import re
-import requests
 from bs4 import BeautifulSoup
-
-# Step 1: Fetch the webpage content
-url = "https://news.ycombinator.com/item?id=42297424"  # Hacker News job thread URL
-response = requests.get(url)
-
-if response.status_code == 200:
-    print("Successfully fetched the webpage.")
-else:
-    print(f"Failed to fetch the webpage. Status code: {response.status_code}")
-    exit()
-
-# Step 2: Parse the webpage using BeautifulSoup
-soup = BeautifulSoup(response.text, 'html.parser')
-
-# Step 3: Extract all text
-all_text = soup.get_text(separator='\n')  # Get all text from the page
-
-# Step 4: Define enhanced regex to match job posts and their details
-# This regex captures job posts that follow the "Company | Location | Role | Format" format
-job_pattern = re.compile(
-    r'^(.*? \| .*? \| .*?(?:Full-Time|Contract|Remote|Onsite).*? \| .*?)$',
-    re.MULTILINE
-)
-
-# Find all matching job posts
-job_posts = job_pattern.findall(all_text)
-
-# Step 5: Collect detailed job descriptions by matching blocks after job posts
-detailed_jobs = []
-lines = all_text.split('\n')  # Split text into lines for processing
-
-for idx, line in enumerate(lines):
-    if job_pattern.match(line):
-        # Found a job post, start collecting details
-        job_post = line.strip()
-        description = []
-
-        # Collect subsequent lines (descriptions) until the next job post or blank line
-        for next_line in lines[idx + 1:]:
-            if next_line.strip() == "" or job_pattern.match(next_line):
-                break
-            description.append(next_line.strip())
-
-        # Combine the job post and its description
-        detailed_jobs.append((job_post, " ".join(description)))
-
-# Step 6: Display detailed job posts
-if detailed_jobs:
-    print(f"Found {len(detailed_jobs)} detailed job posts:\n")
-    for i, (job, desc) in enumerate(detailed_jobs, 1):
-        print(f"Job {i}:\n{job}\nDescription: {desc}\n{'-'*40}\n")
-else:
-    print("No detailed job posts found.")
-import re
+import httpx
 import requests
-from bs4 import BeautifulSoup
+import time
 
-# Step 1: Fetch the webpage content
-url = "https://news.ycombinator.com/item?id=42297424"  # Hacker News job thread URL
-response = requests.get(url)
+# URL of the target webpage
+url = "https://news.ycombinator.com/item?id=42297424"
 
-if response.status_code == 200:
-    print("Successfully fetched the webpage.")
-else:
-    print(f"Failed to fetch the webpage. Status code: {response.status_code}")
-    exit()
+# Headers to mimic a browser request
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
 
-# Step 2: Parse the webpage using BeautifulSoup
-soup = BeautifulSoup(response.text, 'html.parser')
+# Step 1: Try fetching with `httpx` and headers
+def fetch_with_httpx():
+    for i in range(3):  # Retry 3 times
+        try:
+            print(f"Attempt {i + 1} with httpx...")
+            response = httpx.get(url, headers=headers)
+            if response.status_code == 200:
+                print("Fetched successfully with httpx!")
+                return response.content
+            else:
+                print(f"Failed with status code: {response.status_code}")
+        except httpx.RequestError as e:
+            print(f"Httpx request error: {e}")
+        time.sleep(2 ** i)  # Exponential backoff
+    return None
 
-# Step 3: Extract all text
-all_text = soup.get_text(separator='\n')  # Get all text from the page
+# Step 2: Fallback to `requests` if `httpx` fails
+def fetch_with_requests():
+    try:
+        print("Attempting with requests...")
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            print("Fetched successfully with requests!")
+            return response.content
+        else:
+            print(f"Failed with status code: {response.status_code}")
+    except requests.RequestException as e:
+        print(f"Requests library error: {e}")
+    return None
 
-# Step 4: Define enhanced regex to match job posts and their details
-# This regex captures job posts that follow the "Company | Location | Role | Format" format
-job_pattern = re.compile(
-    r'^(.*? \| .*? \| .*?(?:Full-Time|Contract|Remote|Onsite).*? \| .*?)$',
-    re.MULTILINE
-)
+# Main function to fetch the webpage
+def fetch_webpage():
+    # Try httpx first
+    content = fetch_with_httpx()
+    if content:
+        return content
 
-# Find all matching job posts
-job_posts = job_pattern.findall(all_text)
+    # Fallback to requests
+    content = fetch_with_requests()
+    if content:
+        return content
 
-# Step 5: Collect detailed job descriptions by matching blocks after job posts
-detailed_jobs = []
-lines = all_text.split('\n')  # Split text into lines for processing
+    # Raise an exception if all methods fail
+    raise Exception("Failed to fetch the webpage after all attempts.")
 
-for idx, line in enumerate(lines):
-    if job_pattern.match(line):
-        # Found a job post, start collecting details
-        job_post = line.strip()
-        description = []
+# Step 3: Parse and process the content
+try:
+    yc_web_page = fetch_webpage()
+    soup = BeautifulSoup(yc_web_page, "html.parser")
+    articles = soup.find_all(class_="athing")
 
-        # Collect subsequent lines (descriptions) until the next job post or blank line
-        for next_line in lines[idx + 1:]:
-            if next_line.strip() == "" or job_pattern.match(next_line):
-                break
-            description.append(next_line.strip())
+    # Process top-level comments based on indentation
+    top_level_comments = []
+    for article in articles:
+        commtext = article.find(class_="commtext")
+        ind = article.find(class_="ind")
+        if commtext and ind and ind.get("indent") == "0":
+            top_level_comments.append(commtext.get_text(strip=True))
 
-        # Combine the job post and its description
-        detailed_jobs.append((job_post, " ".join(description)))
+    # Output results
+    print(f"Number of top-level comments: {len(top_level_comments)}")
+    for idx, comment in enumerate(top_level_comments, start=1):
+        print(f"{idx}: {comment}")
 
-# Step 6: Display detailed job posts
-if detailed_jobs:
-    print(f"Found {len(detailed_jobs)} detailed job posts:\n")
-    for i, (job, desc) in enumerate(detailed_jobs, 1):
-        print(f"Job {i}:\n{job}\nDescription: {desc}\n{'-'*40}\n")
-else:
-    print("No detailed job posts found.")
+except Exception as e:
+    print(f"Error: {e}")
