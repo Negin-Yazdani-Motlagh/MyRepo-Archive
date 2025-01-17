@@ -47,15 +47,22 @@ Each webpage's content is stored as an individual HTML file in a specified direc
 - Fetches HTML content for each URL using HTTP requests with retry and backoff strategies.
 - Saves the HTML content as individual files in a designated directory, named based on sanitized titles.
  parse_soft_skills_occurrences.py
-- **Purpose**: The script processes multiple HTML files to extract only the job posts by identifying and isolating top-level comments (posts) using the ind class for indentation. It removes all replies to keep only the main job posts for each file and organizes them into a nested JSON structure.
+**Purpose**: The script processes multiple HTML files to extract only the job posts by identifying and isolating top-level comments (posts) using the ind class for indentation. It removes all replies to keep only the main job posts for each file and organizes them into a nested JSON structure.
 **Key Functionality**:
 - Reads all .html files from a specified directory.
 - Skips replies by checking the indent attribute in the ind class.
-    
-### `Parse_Job_Posts_From_HTML.zip`
+  
+### `Parse_Job_Posts_From_HTML.py`
+**Purpose**:The script processes a folder of HTML files containing job postings or comments, extracts top-level comments or job descriptions, and organizes the extracted data into a structured JSON file. It is designed to parse HTML content systematically and save the results for further analysis or visualization.
+**Key Functionality**:
+- Read and Parse HTML Files.
+- Extracts top-level comments (non-reply job descriptions or posts) from elements with specific HTML class names (e.g., class="athing", class="commtext", class="ind").
+- Filters comments based on their indentation level (e.g., indent="0").
+
+### `Parse_Job_Posts_From_HTML.json`
 **Purpose**:
 **Key Functionality**:
-  
+
 ### `Parse_total_soft_skills_occurrences.py`
 **Purpose**: The script aims to analyze the occurrences of soft skills in job descriptions from a nested JSON file of job posts. It combines data from two sources—a list of soft skills from an Excel file and job post descriptions from a JSON file—and produces a structured summary of soft skill mentions, categorized by time periods (e.g., months).
 **Key Functionality**:
@@ -72,36 +79,6 @@ Each webpage's content is stored as an individual HTML file in a specified direc
 - Represents data for a specific month or other grouping.
 - Each time period contains keys for individual soft skills (e.g., Communication, Collaboration).
 - Each time period includes a special key, numJobPost, which represents the total number of job descriptions analyzed for that period.
-  
-### `visualize_job_postings.py`
-**Purpose**:To visualize the trend of job postings over time, making it easier to identify patterns or changes in the number of postings across different months and years.
-**Key Functionality**:
-- Reads the soft_skills_occurnese.json file, which contains data about job postings organized by periods (e.g., months and years).
-- Extracts the numJobPost (number of job posts) for each time period.
-- Converts periods (e.g., "April-2012") to Python datetime objects for sorting and plotting.
-- Creates a clear and detailed line chart:
-- X-axis: Dates (Months and Years).
-- Y-axis: Number of job postings.
-- Additional features: Grid lines, rotated labels for readability, and a legend.
-  
-### `Parse_soft_skills_occurrences.py`
-**Purpose**:The script processes a nested JSON file of job postings and an Excel file of soft skills to analyze the frequency of soft skill mentions in job descriptions. It generates a structured summary of soft skill occurrences by time period (e.g., month and year) and saves the results in a nested JSON file for further analysis or visualization.
-**Key Functionality**:
-- Reads an Excel file containing soft skills.
-- Combines soft skills from all columns into a unified, de-duplicated set for analysis.
-- Recursively extracts job descriptions or comments from a deeply nested JSON file.
-- Matches soft skills (case-insensitively) against text in job descriptions.
-- Tracks the frequency of each skill for each time period (e.g., month).
-- Counts the total number of job posts analyzed for each time period.
-- Sorts soft skills by their frequency in descending order for better insights.
-
-### `Parse_soft_skills_occurrences.json`
-**Purpose**:The JSON file provides a structured summary of soft skill occurrences extracted from job postings. It organizes the data by time periods (e.g., months and years) and shows how often specific soft skills were mentioned in job descriptions, along with the total number of job posts analyzed for each period.
-**Key Functionality**:
-- Each time period (e.g., "April-2012") serves as a key.
-- Groups data related to that specific month or year.
-- For each time period, the JSON lists the soft skills (e.g., "Communication", "Collaboration") and their respective occurrence counts.
-- Helps identify which soft skills were most frequently mentioned in job postings during a given period.
 
 ### `soft_skills_monthly_analysis.py`  
 **Purpose**: The script analyzes the monthly occurrence of soft skills in job postings, using a JSON file of job descriptions and an Excel file containing a list of soft skills. It generates a summary of how often specific soft skills are mentioned each month and saves the results for further analysis or visualization.
