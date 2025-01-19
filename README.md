@@ -140,8 +140,12 @@ Each webpage's content is stored as an individual HTML file in a specified direc
 - Outputs the filtered sentences into a JSON file for easier analysis and sharing.
 
 ### `soft_skills_network_analysis.json`
-**Purpose**:
+**Purpose**:This JSON file contains a structured dataset that captures the frequency and distribution of soft skills mentioned in job postings over time. It is designed to support detailed analysis of trends, relationships, and patterns in soft skill demands across industries and time periods.
 **Key Functionality**:
+- Soft Skill Frequency by Month and Year
+- Total Job Posts Data
+- Structured and Organized
+- Supports Advanced Analysis
 
 ### `soft_skills_normalized_ratio_analysis.py`
 **Purpose**: This script analyzes job postings to calculate and visualize the normalized ratio of job posts mentioning at least one soft skill compared to the total number of job posts over time. It helps track trends in soft skill requirements across various months and years.
@@ -153,8 +157,15 @@ Each webpage's content is stored as an individual HTML file in a specified direc
 - Trend Visualization
   
 ### `soft_skills_normalized_ratio_analysis.png`
-**Purpose**:
+**Purpose**: This chart visually represents the normalized ratio of job posts mentioning at least one soft skill to the total number of job posts over time. It provides insights into the demand for soft skills in job postings across months and years.
 **Key Functionality**:
+- Trend Analysis
+- X-Axis: Dates (Month and Year) representing the time span of the dataset.
+- Y-Axis: The normalized ratio, calculated as: Ration =                             Total Job Posts
+                                                                      Number of Job Posts Mentioning Soft Skills
+​
+ 
+
 
 
 
