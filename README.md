@@ -131,6 +131,14 @@ Each webpage's content is stored as an individual HTML file in a specified direc
 - Ensures readability by formatting labels as "Month Year" (e.g., "Apr 2012") and rotating them 90° to avoid overlap.
 - Connects data points with a smooth line (linestyle='-') to highlight trends.
 - Includes markers (o) at each data point for visibility.
+  
+### `soft_skills_network_analysis.py`
+**Purpose**: This script is designed to analyze job postings for sentences containing the term "network" and identify contexts where it relates to soft skills. The goal is to extract and study interpersonal or organizational skills tied to networking from job descriptions.
+**Key Functionality**:
+- Parses a nested JSON file of job postings to extract textual descriptions.
+- Identifies sentences containing the word "network" using regex and filters them for further analysis.
+- Outputs the filtered sentences into a JSON file for easier analysis and sharing.
+
 
 
 
