@@ -139,6 +139,25 @@ Each webpage's content is stored as an individual HTML file in a specified direc
 - Identifies sentences containing the word "network" using regex and filters them for further analysis.
 - Outputs the filtered sentences into a JSON file for easier analysis and sharing.
 
+### `soft_skills_network_analysis.json`
+**Purpose**:
+**Key Functionality**:
+
+### `soft_skills_normalized_ratio_analysis.py`
+**Purpose**: This script analyzes job postings to calculate and visualize the normalized ratio of job posts mentioning at least one soft skill compared to the total number of job posts over time. It helps track trends in soft skill requirements across various months and years.
+**Key Functionality**:
+- Data Loading
+- Ignores specific invalid entries such as "help-refugees" and "who is hiring now".
+- Ensures only valid dates (Month-Year format) are processed.
+- Normalization Calculation
+- Trend Visualization
+  
+### `soft_skills_normalized_ratio_analysis.png`
+**Purpose**:
+**Key Functionality**:
+
+
+
 
 
 
