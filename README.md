@@ -71,7 +71,7 @@ Each webpage's content is stored as an individual HTML file in a specified direc
 - Counts the total number of job posts for each time period.
 - Sorts skills by their frequency in descending order for better insights.
   
-- ### `Parse_total_soft_skills_occurrences.json`
+### `Parse_total_soft_skills_occurrences.json`
 **Purpose**: This JSON file contains a nested structure summarizing the occurrences of soft skills across different time periods (e.g., months) extracted from job descriptions or posts. It provides insights into which soft skills are most in demand during each period, as well as the total number of job posts analyzed.
 **Key Functionality**:
 - The root key groups all the data under the label YC (e.g., for Y Combinator job posts or similar sources).
