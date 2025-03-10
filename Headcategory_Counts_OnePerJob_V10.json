@@ -1,0 +1,675 @@
+{
+    "HeadcategoryCountsByDate": {
+        "Ask HN Who is Hiring April 2011": {
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 218
+        },
+        "Ask HN Who is Hiring April 2012": {
+            "Interpersonal & Leadership Skills": 7,
+            "numJobPost": 201
+        },
+        "Ask HN Who is hiring April 2013": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 343
+        },
+        "Ask HN Who is hiring April 2014": {
+            "Interpersonal & Leadership Skills": 14,
+            "numJobPost": 353
+        },
+        "Ask HN Who is hiring April 2016": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 593
+        },
+        "Ask HN Who is hiring April 2017": {
+            "Interpersonal & Leadership Skills": 11,
+            "numJobPost": 710
+        },
+        "Ask HN Who is hiring April 2018": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 839
+        },
+        "Ask HN Who is hiring April 2019": {
+            "Interpersonal & Leadership Skills": 6,
+            "numJobPost": 742
+        },
+        "Ask HN Who is hiring April 2020": {
+            "Interpersonal & Leadership Skills": 2,
+            "numJobPost": 456
+        },
+        "Ask HN Who is hiring April 2021": {
+            "Interpersonal & Leadership Skills": 9,
+            "numJobPost": 877
+        },
+        "Ask HN Who is hiring April 2022": {
+            "Interpersonal & Leadership Skills": 6,
+            "numJobPost": 746
+        },
+        "Ask HN Who is hiring April 2023": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 357
+        },
+        "Ask HN Who is hiring April 2024": {
+            "Interpersonal & Leadership Skills": 1,
+            "numJobPost": 292
+        },
+        "Ask HN Who is Hiring August 2011": {
+            "Interpersonal & Leadership Skills": 1,
+            "numJobPost": 229
+        },
+        "Ask HN Who Is Hiring August 2012": {
+            "Interpersonal & Leadership Skills": 5,
+            "numJobPost": 244
+        },
+        "Ask HN Who is hiring August 2013": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 306
+        },
+        "Ask HN Who is hiring August 2014": {
+            "Interpersonal & Leadership Skills": 19,
+            "numJobPost": 477
+        },
+        "Ask HN Who is hiring August 2015": {
+            "Interpersonal & Leadership Skills": 14,
+            "numJobPost": 786
+        },
+        "Ask HN Who is hiring August 2016": {
+            "Interpersonal & Leadership Skills": 11,
+            "numJobPost": 736
+        },
+        "Ask HN Who is hiring August 2017": {
+            "Interpersonal & Leadership Skills": 17,
+            "numJobPost": 725
+        },
+        "Ask HN Who is hiring August 2018": {
+            "Interpersonal & Leadership Skills": 12,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 867
+        },
+        "Ask HN Who is hiring August 2019": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 728
+        },
+        "Ask HN Who is hiring August 2020": {
+            "Interpersonal & Leadership Skills": 6,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 643
+        },
+        "Ask HN Who is hiring August 2021": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 836
+        },
+        "Ask HN Who is hiring August 2022": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 635
+        },
+        "Ask HN Who is hiring August 2023": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 344
+        },
+        "Ask HN Who is hiring August 2024": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 328
+        },
+        "Ask HN Who is Hiring December 2011": {
+            "numJobPost": 1
+        },
+        "Ask HN Who is hiring December 2012": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 229
+        },
+        "Ask HN Who is hiring December 2013": {
+            "Interpersonal & Leadership Skills": 6,
+            "numJobPost": 262
+        },
+        "Ask HN Who is hiring December 2014": {
+            "Interpersonal & Leadership Skills": 24,
+            "Personal Effectiveness & Growth": 1,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 463
+        },
+        "Ask HN Who is hiring December 2015": {
+            "Interpersonal & Leadership Skills": 5,
+            "numJobPost": 358
+        },
+        "Ask HN Who is hiring December 2016": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 634
+        },
+        "Ask HN Who is hiring December 2017": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 777
+        },
+        "Ask HN Who is hiring December 2018": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 757
+        },
+        "Ask HN Who is hiring December 2019": {
+            "Interpersonal & Leadership Skills": 7,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 586
+        },
+        "Ask HN Who is hiring December 2020": {
+            "Interpersonal & Leadership Skills": 7,
+            "numJobPost": 688
+        },
+        "Ask HN Who is hiring December 2021": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 744
+        },
+        "Ask HN Who is hiring December 2022": {
+            "Interpersonal & Leadership Skills": 2,
+            "numJobPost": 484
+        },
+        "Ask HN Who is hiring December 2023": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 315
+        },
+        "Ask HN Who is hiring December 2024": {
+            "Interpersonal & Leadership Skills": 1,
+            "numJobPost": 335
+        },
+        "Ask HN Who is Hiring February 2012": {
+            "Interpersonal & Leadership Skills": 1,
+            "numJobPost": 201
+        },
+        "Ask HN Who is hiring February 2013": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 217
+        },
+        "Ask HN Who is hiring February 2014": {
+            "Interpersonal & Leadership Skills": 2,
+            "numJobPost": 328
+        },
+        "Ask HN Who is hiring February 2015": {
+            "Interpersonal & Leadership Skills": 13,
+            "numJobPost": 493
+        },
+        "Ask HN Who is hiring February 2016": {
+            "Interpersonal & Leadership Skills": 11,
+            "numJobPost": 642
+        },
+        "Ask HN Who is hiring February 2017": {
+            "Interpersonal & Leadership Skills": 13,
+            "numJobPost": 940
+        },
+        "Ask HN Who is hiring February 2018": {
+            "Interpersonal & Leadership Skills": 12,
+            "numJobPost": 788
+        },
+        "Ask HN Who is hiring February 2019": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 694
+        },
+        "Ask HN Who is hiring February 2020": {
+            "Interpersonal & Leadership Skills": 4,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 580
+        },
+        "Ask HN Who is hiring February 2021": {
+            "Interpersonal & Leadership Skills": 12,
+            "numJobPost": 941
+        },
+        "Ask HN Who is hiring February 2022": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 806
+        },
+        "Ask HN Who is hiring February 2023": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 441
+        },
+        "Ask HN Who is hiring February 2024": {
+            "Interpersonal & Leadership Skills": 2,
+            "numJobPost": 343
+        },
+        "Ask HN Who is hiring February 2025": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 394
+        },
+        "Ask HN Who is Hiring January 2012": {
+            "Interpersonal & Leadership Skills": 2,
+            "numJobPost": 148
+        },
+        "Ask HN Who is hiring January 2013": {
+            "Interpersonal & Leadership Skills": 5,
+            "numJobPost": 191
+        },
+        "Ask HN Who is hiring January 2014": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 222
+        },
+        "Ask HN Who is hiring January 2015": {
+            "Interpersonal & Leadership Skills": 6,
+            "numJobPost": 272
+        },
+        "Ask HN Who is hiring January 2016": {
+            "Interpersonal & Leadership Skills": 7,
+            "numJobPost": 372
+        },
+        "Ask HN Who is hiring January 2017": {
+            "Interpersonal & Leadership Skills": 5,
+            "numJobPost": 614
+        },
+        "Ask HN Who is hiring January 2018": {
+            "Interpersonal & Leadership Skills": 13,
+            "numJobPost": 662
+        },
+        "Ask HN Who is hiring January 2019": {
+            "Interpersonal & Leadership Skills": 4,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 767
+        },
+        "Ask HN Who is hiring January 2020": {
+            "Interpersonal & Leadership Skills": 5,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 574
+        },
+        "Ask HN Who is hiring January 2021": {
+            "Interpersonal & Leadership Skills": 11,
+            "numJobPost": 706
+        },
+        "Ask HN Who is hiring January 2022": {
+            "Interpersonal & Leadership Skills": 9,
+            "numJobPost": 663
+        },
+        "Ask HN Who is hiring January 2023": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 366
+        },
+        "Ask HN Who is hiring January 2024": {
+            "Interpersonal & Leadership Skills": 5,
+            "numJobPost": 277
+        },
+        "Ask HN Who is hiring January 2025": {
+            "Interpersonal & Leadership Skills": 5,
+            "numJobPost": 282
+        },
+        "Ask HN Who Is Hiring July 2012": {
+            "Interpersonal & Leadership Skills": 6,
+            "numJobPost": 189
+        },
+        "Ask HN Who is hiring July 2013": {
+            "Interpersonal & Leadership Skills": 7,
+            "numJobPost": 289
+        },
+        "Ask HN Who is hiring July 2014": {
+            "Interpersonal & Leadership Skills": 16,
+            "numJobPost": 418
+        },
+        "Ask HN Who is hiring July 2015": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 836
+        },
+        "Ask HN Who is hiring July 2016": {
+            "Interpersonal & Leadership Skills": 7,
+            "numJobPost": 686
+        },
+        "Ask HN Who is hiring July 2017": {
+            "Interpersonal & Leadership Skills": 14,
+            "numJobPost": 756
+        },
+        "Ask HN Who is hiring July 2018": {
+            "Interpersonal & Leadership Skills": 14,
+            "numJobPost": 733
+        },
+        "Ask HN Who is hiring July 2019": {
+            "Interpersonal & Leadership Skills": 6,
+            "numJobPost": 759
+        },
+        "Ask HN Who is hiring July 2020": {
+            "Interpersonal & Leadership Skills": 4,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 538
+        },
+        "Ask HN Who is hiring July 2021": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 881
+        },
+        "Ask HN Who is hiring July 2022": {
+            "Interpersonal & Leadership Skills": 6,
+            "numJobPost": 526
+        },
+        "Ask HN Who is hiring July 2023": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 307
+        },
+        "Ask HN Who is hiring July 2024": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 384
+        },
+        "Ask HN Who is Hiring June 2011": {
+            "Interpersonal & Leadership Skills": 1,
+            "numJobPost": 255
+        },
+        "Ask HN Who Is Hiring June 2012": {
+            "Interpersonal & Leadership Skills": 7,
+            "numJobPost": 226
+        },
+        "Ask HN Who is hiring June 2013": {
+            "Interpersonal & Leadership Skills": 2,
+            "numJobPost": 261
+        },
+        "Ask HN Who is hiring June 2014": {
+            "Interpersonal & Leadership Skills": 9,
+            "numJobPost": 343
+        },
+        "Ask HN Who is hiring June 2015": {
+            "Interpersonal & Leadership Skills": 9,
+            "numJobPost": 586
+        },
+        "Ask HN Who is hiring June 2016": {
+            "Interpersonal & Leadership Skills": 7,
+            "numJobPost": 773
+        },
+        "Ask HN Who is hiring June 2017": {
+            "Interpersonal & Leadership Skills": 9,
+            "numJobPost": 730
+        },
+        "Ask HN Who is hiring June 2018": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 762
+        },
+        "Ask HN Who is hiring June 2019": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 663
+        },
+        "Ask HN Who is hiring June 2020": {
+            "Interpersonal & Leadership Skills": 5,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 507
+        },
+        "Ask HN Who is hiring June 2021": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 967
+        },
+        "Ask HN Who is hiring June 2022": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 725
+        },
+        "Ask HN Who is hiring June 2023": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 334
+        },
+        "Ask HN Who is hiring June 2024": {
+            "Interpersonal & Leadership Skills": 1,
+            "numJobPost": 346
+        },
+        "Ask HN Who is Hiring March 2012": {
+            "Interpersonal & Leadership Skills": 5,
+            "numJobPost": 249
+        },
+        "Ask HN Who is hiring March 2013": {
+            "Interpersonal & Leadership Skills": 7,
+            "numJobPost": 289
+        },
+        "Ask HN Who is hiring March 2014": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 336
+        },
+        "Ask HN Who is hiring March 2015": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 505
+        },
+        "Ask HN Who is hiring March 2016": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 667
+        },
+        "Ask HN Who is hiring March 2017": {
+            "Interpersonal & Leadership Skills": 17,
+            "numJobPost": 786
+        },
+        "Ask HN Who is hiring March 2018": {
+            "Interpersonal & Leadership Skills": 13,
+            "numJobPost": 866
+        },
+        "Ask HN Who is hiring March 2019": {
+            "Interpersonal & Leadership Skills": 8,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 746
+        },
+        "Ask HN Who is hiring March 2020": {
+            "Interpersonal & Leadership Skills": 9,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 647
+        },
+        "Ask HN Who is hiring March 2021": {
+            "Interpersonal & Leadership Skills": 14,
+            "numJobPost": 905
+        },
+        "Ask HN Who is hiring March 2022": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 790
+        },
+        "Ask HN Who is hiring March 2023": {
+            "Interpersonal & Leadership Skills": 5,
+            "numJobPost": 411
+        },
+        "Ask HN Who is hiring March 2024": {
+            "Interpersonal & Leadership Skills": 1,
+            "numJobPost": 301
+        },
+        "Ask HN Who is Hiring May 2011": {
+            "numJobPost": 216
+        },
+        "Ask HN Who Is Hiring May 2012": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 230
+        },
+        "Ask HN Who is hiring May 2013": {
+            "Interpersonal & Leadership Skills": 2,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 55
+        },
+        "Ask HN Who is hiring May 2014": {
+            "Interpersonal & Leadership Skills": 18,
+            "numJobPost": 407
+        },
+        "Ask HN Who is hiring May 2016": {
+            "Interpersonal & Leadership Skills": 15,
+            "numJobPost": 666
+        },
+        "Ask HN Who is hiring May 2017": {
+            "Interpersonal & Leadership Skills": 9,
+            "numJobPost": 830
+        },
+        "Ask HN Who is hiring May 2018": {
+            "Interpersonal & Leadership Skills": 15,
+            "numJobPost": 973
+        },
+        "Ask HN Who is hiring May 2019": {
+            "Interpersonal & Leadership Skills": 9,
+            "numJobPost": 818
+        },
+        "Ask HN Who is hiring May 2020": {
+            "Interpersonal & Leadership Skills": 5,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 500
+        },
+        "Ask HN Who is hiring May 2021": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 846
+        },
+        "Ask HN Who is hiring May 2022": {
+            "Interpersonal & Leadership Skills": 6,
+            "numJobPost": 761
+        },
+        "Ask HN Who is hiring May 2023": {
+            "Interpersonal & Leadership Skills": 2,
+            "numJobPost": 345
+        },
+        "Ask HN Who is hiring May 2024": {
+            "numJobPost": 399
+        },
+        "Ask HN Who is Hiring November 2011": {
+            "Interpersonal & Leadership Skills": 2,
+            "numJobPost": 230
+        },
+        "Ask HN Who Is Hiring November 2012": {
+            "Interpersonal & Leadership Skills": 8,
+            "numJobPost": 219
+        },
+        "Ask HN Who is hiring November 2013": {
+            "Interpersonal & Leadership Skills": 5,
+            "numJobPost": 296
+        },
+        "Ask HN Who is hiring November 2014": {
+            "Interpersonal & Leadership Skills": 7,
+            "numJobPost": 340
+        },
+        "Ask HN Who is hiring November 2015": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 703
+        },
+        "Ask HN Who is hiring November 2016": {
+            "Interpersonal & Leadership Skills": 13,
+            "numJobPost": 838
+        },
+        "Ask HN Who is hiring November 2017": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 904
+        },
+        "Ask HN Who is hiring November 2018": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 860
+        },
+        "Ask HN Who is hiring November 2019": {
+            "Interpersonal & Leadership Skills": 6,
+            "numJobPost": 630
+        },
+        "Ask HN Who is hiring November 2020": {
+            "Interpersonal & Leadership Skills": 7,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 693
+        },
+        "Ask HN Who is hiring November 2021": {
+            "Interpersonal & Leadership Skills": 9,
+            "numJobPost": 945
+        },
+        "Ask HN Who is hiring November 2022": {
+            "Interpersonal & Leadership Skills": 2,
+            "numJobPost": 529
+        },
+        "Ask HN Who is hiring November 2023": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 364
+        },
+        "Ask HN Who is hiring November 2024": {
+            "Interpersonal & Leadership Skills": 2,
+            "numJobPost": 322
+        },
+        "Ask HN Who is Hiring October 2011": {
+            "Interpersonal & Leadership Skills": 1,
+            "numJobPost": 22
+        },
+        "Ask HN Who Is Hiring October 2012": {
+            "Interpersonal & Leadership Skills": 7,
+            "numJobPost": 247
+        },
+        "Ask HN Who is hiring October 2013": {
+            "Interpersonal & Leadership Skills": 9,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 424
+        },
+        "Ask HN Who is hiring October 2014": {
+            "Interpersonal & Leadership Skills": 14,
+            "numJobPost": 351
+        },
+        "Ask HN Who is hiring October 2015": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 621
+        },
+        "Ask HN Who is hiring October 2016": {
+            "Interpersonal & Leadership Skills": 5,
+            "numJobPost": 786
+        },
+        "Ask HN Who is hiring October 2017": {
+            "Interpersonal & Leadership Skills": 15,
+            "numJobPost": 885
+        },
+        "Ask HN Who is hiring October 2018": {
+            "Interpersonal & Leadership Skills": 12,
+            "numJobPost": 893
+        },
+        "Ask HN Who is hiring October 2019": {
+            "Interpersonal & Leadership Skills": 12,
+            "numJobPost": 720
+        },
+        "Ask HN Who is hiring October 2020": {
+            "Interpersonal & Leadership Skills": 15,
+            "Cognitive & Problem-Solving Skills": 1,
+            "numJobPost": 711
+        },
+        "Ask HN Who is hiring October 2021": {
+            "Interpersonal & Leadership Skills": 12,
+            "numJobPost": 774
+        },
+        "Ask HN Who is hiring October 2022": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 460
+        },
+        "Ask HN Who is hiring October 2023": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 323
+        },
+        "Ask HN Who is hiring October 2024": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 338
+        },
+        "Ask HN Who is Hiring September 2011": {
+            "Interpersonal & Leadership Skills": 6,
+            "numJobPost": 190
+        },
+        "Ask HN Who Is Hiring September 2012": {
+            "Interpersonal & Leadership Skills": 4,
+            "numJobPost": 212
+        },
+        "Ask HN Who is hiring September 2013": {
+            "Interpersonal & Leadership Skills": 5,
+            "numJobPost": 238
+        },
+        "Ask HN Who is hiring September 2014": {
+            "Interpersonal & Leadership Skills": 13,
+            "numJobPost": 279
+        },
+        "Ask HN Who is hiring September 2015": {
+            "Interpersonal & Leadership Skills": 9,
+            "numJobPost": 698
+        },
+        "Ask HN Who is hiring September 2016": {
+            "Interpersonal & Leadership Skills": 9,
+            "numJobPost": 642
+        },
+        "Ask HN Who is hiring September 2017": {
+            "Interpersonal & Leadership Skills": 15,
+            "numJobPost": 780
+        },
+        "Ask HN Who is hiring September 2018": {
+            "Interpersonal & Leadership Skills": 14,
+            "numJobPost": 692
+        },
+        "Ask HN Who is hiring September 2019": {
+            "Interpersonal & Leadership Skills": 10,
+            "numJobPost": 609
+        },
+        "Ask HN Who is hiring September 2020": {
+            "Cognitive & Problem-Solving Skills": 1,
+            "Interpersonal & Leadership Skills": 12,
+            "numJobPost": 601
+        },
+        "Ask HN Who is hiring September 2021": {
+            "Interpersonal & Leadership Skills": 9,
+            "numJobPost": 900
+        },
+        "Ask HN Who is hiring September 2022": {
+            "Interpersonal & Leadership Skills": 3,
+            "numJobPost": 505
+        },
+        "Ask HN Who is hiring September 2023": {
+            "Interpersonal & Leadership Skills": 2,
+            "numJobPost": 296
+        },
+        "Ask HN Who is hiring September 2024": {
+            "Interpersonal & Leadership Skills": 7,
+            "numJobPost": 308
+        }
+    }
+}
