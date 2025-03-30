@@ -1,0 +1,182 @@
+{
+    "2011": {
+        "total_job_posts": 15,
+        "soft_skill_counts": {
+            "Collaboration and Team Dynamics": 6,
+            "Communication Skills": 2,
+            "Emotional Intelligence (EQ)": 2,
+            "Work Ethic and Professionalism": 2,
+            "Creativity and Inovation": 2
+        }
+    },
+    "2012": {
+        "total_job_posts": 27,
+        "soft_skill_counts": {
+            "Emotional Intelligence (EQ)": 2,
+            "Collaboration and Team Dynamics": 2,
+            "Communication Skills": 2,
+            "Work Ethic and Professionalism": 2
+        }
+    },
+    "2013": {
+        "total_job_posts": 33,
+        "soft_skill_counts": {
+            "Collaboration and Team Dynamics": 3,
+            "Emotional Intelligence (EQ)": 3,
+            "Communication Skills": 4,
+            "Time Management and Organizational Skills": 2,
+            "Work Ethic and Professionalism": 2,
+            "Creativity and Inovation": 2,
+            "Problem-Solving and Critical Thinking": 2,
+            "Adaptability & Continuous Learning": 2,
+            "Decision-Making and Judgment": 2
+        }
+    },
+    "2014": {
+        "total_job_posts": 73,
+        "soft_skill_counts": {
+            "Emotional Intelligence (EQ)": 5,
+            "Collaboration and Team Dynamics": 8,
+            "Problem-Solving and Critical Thinking": 4,
+            "Work Ethic and Professionalism": 6,
+            "Communication Skills": 5
+        }
+    },
+    "2015": {
+        "total_job_posts": 116,
+        "soft_skill_counts": {
+            "Communication Skills": 10,
+            "Collaboration and Team Dynamics": 5,
+            "Work Ethic and Professionalism": 22,
+            "Emotional Intelligence (EQ)": 7,
+            "Creativity and Inovation": 3
+        }
+    },
+    "2016": {
+        "total_job_posts": 259,
+        "soft_skill_counts": {
+            "Work Ethic and Professionalism": 46,
+            "Collaboration and Team Dynamics": 24,
+            "Emotional Intelligence (EQ)": 20,
+            "Creativity and Inovation": 7,
+            "Communication Skills": 5,
+            "Decision-Making and Judgment": 1
+        }
+    },
+    "2017": {
+        "total_job_posts": 644,
+        "soft_skill_counts": {
+            "Communication Skills": 40,
+            "Work Ethic and Professionalism": 70,
+            "Collaboration and Team Dynamics": 43,
+            "Emotional Intelligence (EQ)": 40,
+            "Problem-Solving and Critical Thinking": 5,
+            "Creativity and Inovation": 29,
+            "Adaptability & Continuous Learning": 7,
+            "Customer Service and Client Management": 1
+        }
+    },
+    "2018": {
+        "total_job_posts": 949,
+        "soft_skill_counts": {
+            "Emotional Intelligence (EQ)": 61,
+            "Work Ethic and Professionalism": 100,
+            "Creativity and Inovation": 47,
+            "Problem-Solving and Critical Thinking": 16,
+            "Adaptability & Continuous Learning": 13,
+            "Collaboration and Team Dynamics": 63,
+            "Communication Skills": 40,
+            "Decision-Making and Judgment": 3,
+            "Customer Service and Client Management": 6
+        }
+    },
+    "2019": {
+        "total_job_posts": 998,
+        "soft_skill_counts": {
+            "Collaboration and Team Dynamics": 97,
+            "Emotional Intelligence (EQ)": 54,
+            "Work Ethic and Professionalism": 98,
+            "Creativity and Inovation": 77,
+            "Problem-Solving and Critical Thinking": 10,
+            "Time Management and Organizational Skills": 2,
+            "Communication Skills": 51,
+            "Adaptability & Continuous Learning": 1,
+            "Decision-Making and Judgment": 1,
+            "Customer Service and Client Management": 1
+        }
+    },
+    "2020": {
+        "total_job_posts": 1077,
+        "soft_skill_counts": {
+            "Collaboration and Team Dynamics": 96,
+            "Communication Skills": 104,
+            "Emotional Intelligence (EQ)": 75,
+            "Customer Service and Client Management": 4,
+            "Work Ethic and Professionalism": 63,
+            "Creativity and Inovation": 55,
+            "Adaptability & Continuous Learning": 9,
+            "Problem-Solving and Critical Thinking": 2,
+            "Decision-Making and Judgment": 3,
+            "Time Management and Organizational Skills": 2
+        }
+    },
+    "2021": {
+        "total_job_posts": 1391,
+        "soft_skill_counts": {
+            "Emotional Intelligence (EQ)": 75,
+            "Collaboration and Team Dynamics": 133,
+            "Communication Skills": 144,
+            "Work Ethic and Professionalism": 141,
+            "Creativity and Inovation": 76,
+            "Problem-Solving and Critical Thinking": 2,
+            "Adaptability & Continuous Learning": 10,
+            "Customer Service and Client Management": 4,
+            "Time Management and Organizational Skills": 1,
+            "Decision-Making and Judgment": 2
+        }
+    },
+    "2022": {
+        "total_job_posts": 1267,
+        "soft_skill_counts": {
+            "Communication Skills": 125,
+            "Collaboration and Team Dynamics": 125,
+            "Creativity and Inovation": 68,
+            "Work Ethic and Professionalism": 170,
+            "Emotional Intelligence (EQ)": 48,
+            "Adaptability & Continuous Learning": 13,
+            "Problem-Solving and Critical Thinking": 10,
+            "Time Management and Organizational Skills": 1,
+            "Decision-Making and Judgment": 1
+        }
+    },
+    "2023": {
+        "total_job_posts": 1159,
+        "soft_skill_counts": {
+            "Creativity and Inovation": 93,
+            "Communication Skills": 106,
+            "Work Ethic and Professionalism": 117,
+            "Emotional Intelligence (EQ)": 42,
+            "Collaboration and Team Dynamics": 92,
+            "Adaptability & Continuous Learning": 19,
+            "Customer Service and Client Management": 15,
+            "Decision-Making and Judgment": 2,
+            "Problem-Solving and Critical Thinking": 3,
+            "Time Management and Organizational Skills": 1
+        }
+    },
+    "2024": {
+        "total_job_posts": 1663,
+        "soft_skill_counts": {
+            "Communication Skills": 165,
+            "Emotional Intelligence (EQ)": 44,
+            "Work Ethic and Professionalism": 149,
+            "Creativity and Inovation": 96,
+            "Collaboration and Team Dynamics": 85,
+            "Problem-Solving and Critical Thinking": 7,
+            "Adaptability & Continuous Learning": 7,
+            "Customer Service and Client Management": 2,
+            "Time Management and Organizational Skills": 3,
+            "Decision-Making and Judgment": 1
+        }
+    }
+}
