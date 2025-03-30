@@ -1,0 +1,122 @@
+{
+    "2011": {
+        "total_job_posts": 52,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 15,
+            "Interpersonal & Leadership Skills": 34,
+            "Conceptual/thinking skills": 8
+        }
+    },
+    "2012": {
+        "total_job_posts": 193,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 29,
+            "Interpersonal & Leadership Skills": 51,
+            "Conceptual/thinking skills": 18
+        }
+    },
+    "2013": {
+        "total_job_posts": 258,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 112,
+            "Interpersonal & Leadership Skills": 79,
+            "Conceptual/thinking skills": 27
+        }
+    },
+    "2014": {
+        "total_job_posts": 385,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 126,
+            "Interpersonal & Leadership Skills": 131,
+            "Conceptual/thinking skills": 18
+        }
+    },
+    "2015": {
+        "total_job_posts": 517,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 110,
+            "Interpersonal & Leadership Skills": 71,
+            "Conceptual/thinking skills": 39
+        }
+    },
+    "2016": {
+        "total_job_posts": 893,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 148,
+            "Interpersonal & Leadership Skills": 122,
+            "Conceptual/thinking skills": 69
+        }
+    },
+    "2017": {
+        "total_job_posts": 1389,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 246,
+            "Interpersonal & Leadership Skills": 191,
+            "Conceptual/thinking skills": 110
+        }
+    },
+    "2018": {
+        "total_job_posts": 1643,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 262,
+            "Interpersonal & Leadership Skills": 235,
+            "Conceptual/thinking skills": 153
+        }
+    },
+    "2019": {
+        "total_job_posts": 1457,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 254,
+            "Interpersonal & Leadership Skills": 186,
+            "Conceptual/thinking skills": 123
+        }
+    },
+    "2020": {
+        "total_job_posts": 1267,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 231,
+            "Interpersonal & Leadership Skills": 252,
+            "Conceptual/thinking skills": 102
+        }
+    },
+    "2021": {
+        "total_job_posts": 1678,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 274,
+            "Interpersonal & Leadership Skills": 420,
+            "Conceptual/thinking skills": 101
+        }
+    },
+    "2022": {
+        "total_job_posts": 1412,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 248,
+            "Interpersonal & Leadership Skills": 339,
+            "Conceptual/thinking skills": 112
+        }
+    },
+    "2023": {
+        "total_job_posts": 1060,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 170,
+            "Interpersonal & Leadership Skills": 195,
+            "Conceptual/thinking skills": 84
+        }
+    },
+    "2024": {
+        "total_job_posts": 1393,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 171,
+            "Interpersonal & Leadership Skills": 229,
+            "Conceptual/thinking skills": 85
+        }
+    },
+    "2025": {
+        "total_job_posts": 438,
+        "soft_skill_counts": {
+            "Personal Effectiveness & Growth": 74,
+            "Interpersonal & Leadership Skills": 93,
+            "Conceptual/thinking skills": 34
+        }
+    }
+}
