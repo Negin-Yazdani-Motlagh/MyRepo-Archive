@@ -1,0 +1,57 @@
+import json
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# File paths explicitly
+json_input_path = r"C:\Users\negin\YC-Job-Analytics\Result_YC\March 2025\Combined_Soft_Skills_Occurrences_v11_Corrected.json"
+output_figure_path = r"C:\Users\negin\YC-Job-Analytics\Result_YC\March 2025\Normalized_Soft_Skills_v11_Corrected.png"
+
+# Load the JSON data explicitly
+with open(json_input_path, 'r', encoding='utf-8') as file:
+    data = json.load(file)
+
+# Prepare data explicitly for plotting
+years = sorted(data.keys())
+personal_effectiveness = []
+interpersonal_leadership = []
+conceptual_thinking = []
+
+for year in years:
+    total_posts = data[year]['total_job_posts']
+    personal_effectiveness.append(
+        (data[year]['soft_skill_counts']['Personal Effectiveness & Growth'] / total_posts) * 100
+    )
+    interpersonal_leadership.append(
+        (data[year]['soft_skill_counts']['Interpersonal & Leadership Skills'] / total_posts) * 100
+    )
+    conceptual_thinking.append(
+        (data[year]['soft_skill_counts']['Conceptual/thinking skills'] / total_posts) * 100
+    )
+
+# DataFrame explicitly prepared for plotting
+df = pd.DataFrame({
+    'Year': [int(year) for year in years],
+    'Personal Effectiveness & Growth': personal_effectiveness,
+    'Interpersonal & Leadership Skills': interpersonal_leadership,
+    'Conceptual/Thinking Skills': conceptual_thinking
+})
+
+# Explicit plotting
+plt.figure(figsize=(12, 7))
+plt.plot(df['Year'], df['Personal Effectiveness & Growth'], marker='o', label='Personal Effectiveness & Growth')
+plt.plot(df['Year'], df['Interpersonal & Leadership Skills'], marker='o', label='Interpersonal & Leadership Skills')
+plt.plot(df['Year'], df['Conceptual/Thinking Skills'], marker='o', label='Conceptual/Thinking Skills')
+
+plt.xlabel('Year')
+plt.ylabel('Percentage of Job Posts (%)')
+plt.title('Normalized Soft Skills as a Percentage of Job Posts (Yearly v11 Corrected)')
+plt.xticks(df['Year'], rotation=45)
+plt.grid(True)
+plt.legend(title="Soft Skill Categories")
+plt.tight_layout()
+
+# Save and display the figure explicitly
+plt.savefig(output_figure_path)
+plt.show()
+
+print(f"Figure saved explicitly to {output_figure_path}")
