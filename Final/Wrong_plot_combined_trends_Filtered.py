@@ -68,9 +68,6 @@ def get_interpersonal_leadership_trend():
     print("Loading Excel file for Interpersonal & Leadership Skills...")
     df = pd.read_excel(excel_path)
     
-    # Filter out 'motivated' and 'responsibility' subcategories
-    df['Subcategory_lower'] = df['Subcategory'].apply(safe_str)
-    df = df[~df['Subcategory_lower'].isin(['motivated', 'responsibility'])]
     
     with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
