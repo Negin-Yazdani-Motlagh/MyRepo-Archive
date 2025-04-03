@@ -20,7 +20,7 @@ def get_customer_service_trend():
     print("Loading Excel file for Customer Service...")
     df = pd.read_excel(excel_path)
     
-    # Filter out 'motivated' and 'responsibility' subcategories
+   
     df['Subcategory_lower'] = df['Subcategory'].apply(safe_str)
     df = df[~df['Subcategory_lower'].isin(['motivated', 'responsibility'])]
     
