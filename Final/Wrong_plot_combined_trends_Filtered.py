@@ -20,9 +20,6 @@ def get_customer_service_trend():
     print("Loading Excel file for Customer Service...")
     df = pd.read_excel(excel_path)
     
-   
-    df['Subcategory_lower'] = df['Subcategory'].apply(safe_str)
-    df = df[~df['Subcategory_lower'].isin(['motivated', 'responsibility'])]
     
     print("Loading JSON file...")
     with open(json_path, 'r', encoding='utf-8') as f:
