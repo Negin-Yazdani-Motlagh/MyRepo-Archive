@@ -1,0 +1,227 @@
+{
+  "2011": {
+    "total_posts": 1361,
+    "categories": {
+      "Communication Skills": 5.584129316678912,
+      "Collaboration and Team Dynamics": 2.1307861866274798,
+      "Emotional Intelligence (EQ)": 3.3798677443056575,
+      "Time Management and Organizational Skills": 0.1469507714915503,
+      "Work Ethic and Professionalism": 3.0124908155767818,
+      "Creativity and Inovation": 2.1307861866274798,
+      "Customer Service and Client Management": 0.1469507714915503,
+      "Problem-Solving and Critical Thinking": 0.36737692872887584,
+      "Adaptability & Continuous Learning": 0.5143277002204262,
+      "Decision-Making and Judgment": 0.07347538574577515
+    }
+  },
+  "2012": {
+    "total_posts": 2595,
+    "categories": {
+      "Communication Skills": 8.246628131021193,
+      "Collaboration and Team Dynamics": 3.4296724470134876,
+      "Emotional Intelligence (EQ)": 3.8535645472061653,
+      "Time Management and Organizational Skills": 0.07707129094412332,
+      "Work Ethic and Professionalism": 4.7398843930635834,
+      "Creativity and Inovation": 3.4296724470134876,
+      "Customer Service and Client Management": 0.11560693641618498,
+      "Problem-Solving and Critical Thinking": 0.3853564547206166,
+      "Adaptability & Continuous Learning": 0.5780346820809248,
+      "Decision-Making and Judgment": 0.3082851637764933
+    }
+  },
+  "2013": {
+    "total_posts": 3171,
+    "categories": {
+      "Communication Skills": 10.974456007568591,
+      "Collaboration and Team Dynamics": 5.834121728161463,
+      "Emotional Intelligence (EQ)": 4.951119520655944,
+      "Time Management and Organizational Skills": 0.315357931251971,
+      "Work Ethic and Professionalism": 5.613371176285083,
+      "Creativity and Inovation": 3.1851151056449067,
+      "Customer Service and Client Management": 0.3468937243771681,
+      "Problem-Solving and Critical Thinking": 0.7568590350047304,
+      "Adaptability & Continuous Learning": 0.7883948281299276,
+      "Decision-Making and Judgment": 0.28382213812677387
+    }
+  },
+  "2014": {
+    "total_posts": 4317,
+    "categories": {
+      "Communication Skills": 13.249942089413944,
+      "Collaboration and Team Dynamics": 7.760018531387537,
+      "Emotional Intelligence (EQ)": 6.300671762798239,
+      "Time Management and Organizational Skills": 0.44012045401899463,
+      "Work Ethic and Professionalism": 7.018763029881862,
+      "Creativity and Inovation": 3.0113504748668056,
+      "Customer Service and Client Management": 0.39379198517488995,
+      "Problem-Solving and Critical Thinking": 0.7875839703497799,
+      "Adaptability & Continuous Learning": 1.111883252258513,
+      "Decision-Making and Judgment": 0.11582117211026176
+    }
+  },
+  "2016": {
+    "total_posts": 8035,
+    "categories": {
+      "Communication Skills": 7.666459240821406,
+      "Collaboration and Team Dynamics": 4.642190416925949,
+      "Emotional Intelligence (EQ)": 4.754200373366521,
+      "Time Management and Organizational Skills": 0.1742377100186683,
+      "Work Ethic and Professionalism": 4.77909147479776,
+      "Creativity and Inovation": 3.7461107654013692,
+      "Customer Service and Client Management": 0.2738021157436217,
+      "Problem-Solving and Critical Thinking": 0.47293092719352836,
+      "Adaptability & Continuous Learning": 0.6596141879278158,
+      "Decision-Making and Judgment": 0.2862476664592408
+    }
+  },
+  "2017": {
+    "total_posts": 9437,
+    "categories": {
+      "Communication Skills": 7.618946699162869,
+      "Collaboration and Team Dynamics": 4.524743032743457,
+      "Emotional Intelligence (EQ)": 4.969799724488714,
+      "Time Management and Organizational Skills": 0.14835223058175268,
+      "Work Ethic and Professionalism": 5.393663240436579,
+      "Creativity and Inovation": 3.867754583024266,
+      "Customer Service and Client Management": 0.39207375225177493,
+      "Problem-Solving and Critical Thinking": 0.29670446116350535,
+      "Adaptability & Continuous Learning": 0.7205679771113701,
+      "Decision-Making and Judgment": 0.222528345872629
+    }
+  },
+  "2018": {
+    "total_posts": 9692,
+    "categories": {
+      "Communication Skills": 7.294676021460998,
+      "Collaboration and Team Dynamics": 5.788278992983904,
+      "Emotional Intelligence (EQ)": 4.921584812216261,
+      "Time Management and Organizational Skills": 0.07222451506397028,
+      "Work Ethic and Professionalism": 5.303342963268675,
+      "Creativity and Inovation": 4.075526207181181,
+      "Customer Service and Client Management": 0.25794469665703673,
+      "Problem-Solving and Critical Thinking": 0.4746182418489476,
+      "Adaptability & Continuous Learning": 0.8460586050350805,
+      "Decision-Making and Judgment": 0.3095336359884441
+    }
+  },
+  "2019": {
+    "total_posts": 8462,
+    "categories": {
+      "Communication Skills": 7.031434649019144,
+      "Collaboration and Team Dynamics": 6.156936894351217,
+      "Emotional Intelligence (EQ)": 4.691562278421177,
+      "Time Management and Organizational Skills": 0.10635783502718034,
+      "Work Ethic and Professionalism": 6.062396596549279,
+      "Creativity and Inovation": 4.360671236114394,
+      "Customer Service and Client Management": 0.3072559678562987,
+      "Problem-Solving and Critical Thinking": 0.4727014890096904,
+      "Adaptability & Continuous Learning": 0.7208697707397779,
+      "Decision-Making and Judgment": 0.5436067123611439
+    }
+  },
+  "2020": {
+    "total_posts": 7137,
+    "categories": {
+      "Communication Skills": 7.846434075942272,
+      "Collaboration and Team Dynamics": 5.268320022418383,
+      "Emotional Intelligence (EQ)": 4.539722572509458,
+      "Time Management and Organizational Skills": 0.12610340479192939,
+      "Work Ethic and Professionalism": 5.856802578114054,
+      "Creativity and Inovation": 3.2646770351688383,
+      "Customer Service and Client Management": 0.15412638363458037,
+      "Problem-Solving and Critical Thinking": 0.26621829900518423,
+      "Adaptability & Continuous Learning": 0.47639064032506656,
+      "Decision-Making and Judgment": 0.490402129746392
+    }
+  },
+  "2021": {
+    "total_posts": 10321,
+    "categories": {
+      "Communication Skills": 8.255014049026258,
+      "Collaboration and Team Dynamics": 5.609921519232632,
+      "Emotional Intelligence (EQ)": 4.447243484158512,
+      "Time Management and Organizational Skills": 0.04844491812808836,
+      "Work Ethic and Professionalism": 5.687433388237574,
+      "Creativity and Inovation": 3.274876465458773,
+      "Customer Service and Client Management": 0.2422245906404418,
+      "Problem-Solving and Critical Thinking": 0.3391144268966185,
+      "Adaptability & Continuous Learning": 0.6104059684139134,
+      "Decision-Making and Judgment": 0.27129154151729484
+    }
+  },
+  "2022": {
+    "total_posts": 7628,
+    "categories": {
+      "Communication Skills": 9.150498164656529,
+      "Collaboration and Team Dynamics": 5.2438384897745145,
+      "Emotional Intelligence (EQ)": 3.657577346617724,
+      "Time Management and Organizational Skills": 0.03932878867330886,
+      "Work Ethic and Professionalism": 5.624016780283167,
+      "Creativity and Inovation": 3.8017829050865233,
+      "Customer Service and Client Management": 0.19664394336654428,
+      "Problem-Solving and Critical Thinking": 0.47194546407970633,
+      "Adaptability & Continuous Learning": 0.5374934452018878,
+      "Decision-Making and Judgment": 0.19664394336654428
+    }
+  },
+  "2023": {
+    "total_posts": 4200,
+    "categories": {
+      "Communication Skills": 9.095238095238095,
+      "Collaboration and Team Dynamics": 5.261904761904762,
+      "Emotional Intelligence (EQ)": 4.023809523809524,
+      "Time Management and Organizational Skills": 0.11904761904761905,
+      "Work Ethic and Professionalism": 5.880952380952381,
+      "Creativity and Inovation": 4.6190476190476195,
+      "Customer Service and Client Management": 0.33333333333333337,
+      "Problem-Solving and Critical Thinking": 0.38095238095238093,
+      "Adaptability & Continuous Learning": 0.6904761904761905,
+      "Decision-Making and Judgment": 0.2619047619047619
+    }
+  },
+  "2024": {
+    "total_posts": 3973,
+    "categories": {
+      "Communication Skills": 7.827837905864586,
+      "Collaboration and Team Dynamics": 4.882959979864083,
+      "Emotional Intelligence (EQ)": 3.4986156556758115,
+      "Time Management and Organizational Skills": 0.05033979360684621,
+      "Work Ethic and Professionalism": 6.040775232821546,
+      "Creativity and Inovation": 4.555751321419582,
+      "Customer Service and Client Management": 0.25169896803423103,
+      "Problem-Solving and Critical Thinking": 0.3020387616410773,
+      "Adaptability & Continuous Learning": 0.47822803926503904,
+      "Decision-Making and Judgment": 0.15101938082053865
+    }
+  },
+  "2015": {
+    "total_posts": 5858,
+    "categories": {
+      "Communication Skills": 8.279276203482418,
+      "Collaboration and Team Dynamics": 4.540798907476955,
+      "Emotional Intelligence (EQ)": 4.6944349607374525,
+      "Time Management and Organizational Skills": 0.22191874359849778,
+      "Work Ethic and Professionalism": 4.455445544554455,
+      "Creativity and Inovation": 3.533629224991465,
+      "Customer Service and Client Management": 0.3584841242744964,
+      "Problem-Solving and Critical Thinking": 0.4609081597814954,
+      "Adaptability & Continuous Learning": 0.7681802663024923,
+      "Decision-Making and Judgment": 0.2560600887674974
+    }
+  },
+  "2025": {
+    "total_posts": 1050,
+    "categories": {
+      "Communication Skills": 10.666666666666668,
+      "Collaboration and Team Dynamics": 5.0476190476190474,
+      "Emotional Intelligence (EQ)": 4.857142857142857,
+      "Time Management and Organizational Skills": 0.0,
+      "Work Ethic and Professionalism": 7.333333333333333,
+      "Creativity and Inovation": 4.0,
+      "Customer Service and Client Management": 0.19047619047619047,
+      "Problem-Solving and Critical Thinking": 0.38095238095238093,
+      "Adaptability & Continuous Learning": 0.7619047619047619,
+      "Decision-Making and Judgment": 0.09523809523809523
+    }
+  }
+}
