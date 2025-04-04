@@ -1,0 +1,227 @@
+{
+  "2011": {
+    "total_posts": 1361,
+    "categories": {
+      "Communication Skills": 76,
+      "Collaboration and Team Dynamics": 29,
+      "Emotional Intelligence (EQ)": 46,
+      "Time Management and Organizational Skills": 2,
+      "Work Ethic and Professionalism": 41,
+      "Creativity and Inovation": 29,
+      "Customer Service and Client Management": 2,
+      "Problem-Solving and Critical Thinking": 5,
+      "Adaptability & Continuous Learning": 7,
+      "Decision-Making and Judgment": 1
+    }
+  },
+  "2012": {
+    "total_posts": 2595,
+    "categories": {
+      "Communication Skills": 214,
+      "Collaboration and Team Dynamics": 89,
+      "Emotional Intelligence (EQ)": 100,
+      "Time Management and Organizational Skills": 2,
+      "Work Ethic and Professionalism": 123,
+      "Creativity and Inovation": 89,
+      "Customer Service and Client Management": 3,
+      "Problem-Solving and Critical Thinking": 10,
+      "Adaptability & Continuous Learning": 15,
+      "Decision-Making and Judgment": 8
+    }
+  },
+  "2013": {
+    "total_posts": 3171,
+    "categories": {
+      "Communication Skills": 348,
+      "Collaboration and Team Dynamics": 185,
+      "Emotional Intelligence (EQ)": 157,
+      "Time Management and Organizational Skills": 10,
+      "Work Ethic and Professionalism": 178,
+      "Creativity and Inovation": 101,
+      "Customer Service and Client Management": 11,
+      "Problem-Solving and Critical Thinking": 24,
+      "Adaptability & Continuous Learning": 25,
+      "Decision-Making and Judgment": 9
+    }
+  },
+  "2014": {
+    "total_posts": 4317,
+    "categories": {
+      "Communication Skills": 572,
+      "Collaboration and Team Dynamics": 335,
+      "Emotional Intelligence (EQ)": 272,
+      "Time Management and Organizational Skills": 19,
+      "Work Ethic and Professionalism": 303,
+      "Creativity and Inovation": 130,
+      "Customer Service and Client Management": 17,
+      "Problem-Solving and Critical Thinking": 34,
+      "Adaptability & Continuous Learning": 48,
+      "Decision-Making and Judgment": 5
+    }
+  },
+  "2016": {
+    "total_posts": 8035,
+    "categories": {
+      "Communication Skills": 616,
+      "Collaboration and Team Dynamics": 373,
+      "Emotional Intelligence (EQ)": 382,
+      "Time Management and Organizational Skills": 14,
+      "Work Ethic and Professionalism": 384,
+      "Creativity and Inovation": 301,
+      "Customer Service and Client Management": 22,
+      "Problem-Solving and Critical Thinking": 38,
+      "Adaptability & Continuous Learning": 53,
+      "Decision-Making and Judgment": 23
+    }
+  },
+  "2017": {
+    "total_posts": 9437,
+    "categories": {
+      "Communication Skills": 719,
+      "Collaboration and Team Dynamics": 427,
+      "Emotional Intelligence (EQ)": 469,
+      "Time Management and Organizational Skills": 14,
+      "Work Ethic and Professionalism": 509,
+      "Creativity and Inovation": 365,
+      "Customer Service and Client Management": 37,
+      "Problem-Solving and Critical Thinking": 28,
+      "Adaptability & Continuous Learning": 68,
+      "Decision-Making and Judgment": 21
+    }
+  },
+  "2018": {
+    "total_posts": 9692,
+    "categories": {
+      "Communication Skills": 707,
+      "Collaboration and Team Dynamics": 561,
+      "Emotional Intelligence (EQ)": 477,
+      "Time Management and Organizational Skills": 7,
+      "Work Ethic and Professionalism": 514,
+      "Creativity and Inovation": 395,
+      "Customer Service and Client Management": 25,
+      "Problem-Solving and Critical Thinking": 46,
+      "Adaptability & Continuous Learning": 82,
+      "Decision-Making and Judgment": 30
+    }
+  },
+  "2019": {
+    "total_posts": 8462,
+    "categories": {
+      "Communication Skills": 595,
+      "Collaboration and Team Dynamics": 521,
+      "Emotional Intelligence (EQ)": 397,
+      "Time Management and Organizational Skills": 9,
+      "Work Ethic and Professionalism": 513,
+      "Creativity and Inovation": 369,
+      "Customer Service and Client Management": 26,
+      "Problem-Solving and Critical Thinking": 40,
+      "Adaptability & Continuous Learning": 61,
+      "Decision-Making and Judgment": 46
+    }
+  },
+  "2020": {
+    "total_posts": 7137,
+    "categories": {
+      "Communication Skills": 560,
+      "Collaboration and Team Dynamics": 376,
+      "Emotional Intelligence (EQ)": 324,
+      "Time Management and Organizational Skills": 9,
+      "Work Ethic and Professionalism": 418,
+      "Creativity and Inovation": 233,
+      "Customer Service and Client Management": 11,
+      "Problem-Solving and Critical Thinking": 19,
+      "Adaptability & Continuous Learning": 34,
+      "Decision-Making and Judgment": 35
+    }
+  },
+  "2021": {
+    "total_posts": 10321,
+    "categories": {
+      "Communication Skills": 852,
+      "Collaboration and Team Dynamics": 579,
+      "Emotional Intelligence (EQ)": 459,
+      "Time Management and Organizational Skills": 5,
+      "Work Ethic and Professionalism": 587,
+      "Creativity and Inovation": 338,
+      "Customer Service and Client Management": 25,
+      "Problem-Solving and Critical Thinking": 35,
+      "Adaptability & Continuous Learning": 63,
+      "Decision-Making and Judgment": 28
+    }
+  },
+  "2022": {
+    "total_posts": 7628,
+    "categories": {
+      "Communication Skills": 698,
+      "Collaboration and Team Dynamics": 400,
+      "Emotional Intelligence (EQ)": 279,
+      "Time Management and Organizational Skills": 3,
+      "Work Ethic and Professionalism": 429,
+      "Creativity and Inovation": 290,
+      "Customer Service and Client Management": 15,
+      "Problem-Solving and Critical Thinking": 36,
+      "Adaptability & Continuous Learning": 41,
+      "Decision-Making and Judgment": 15
+    }
+  },
+  "2023": {
+    "total_posts": 4200,
+    "categories": {
+      "Communication Skills": 382,
+      "Collaboration and Team Dynamics": 221,
+      "Emotional Intelligence (EQ)": 169,
+      "Time Management and Organizational Skills": 5,
+      "Work Ethic and Professionalism": 247,
+      "Creativity and Inovation": 194,
+      "Customer Service and Client Management": 14,
+      "Problem-Solving and Critical Thinking": 16,
+      "Adaptability & Continuous Learning": 29,
+      "Decision-Making and Judgment": 11
+    }
+  },
+  "2024": {
+    "total_posts": 3973,
+    "categories": {
+      "Communication Skills": 311,
+      "Collaboration and Team Dynamics": 194,
+      "Emotional Intelligence (EQ)": 139,
+      "Time Management and Organizational Skills": 2,
+      "Work Ethic and Professionalism": 240,
+      "Creativity and Inovation": 181,
+      "Customer Service and Client Management": 10,
+      "Problem-Solving and Critical Thinking": 12,
+      "Adaptability & Continuous Learning": 19,
+      "Decision-Making and Judgment": 6
+    }
+  },
+  "2015": {
+    "total_posts": 5858,
+    "categories": {
+      "Communication Skills": 485,
+      "Collaboration and Team Dynamics": 266,
+      "Emotional Intelligence (EQ)": 275,
+      "Time Management and Organizational Skills": 13,
+      "Work Ethic and Professionalism": 261,
+      "Creativity and Inovation": 207,
+      "Customer Service and Client Management": 21,
+      "Problem-Solving and Critical Thinking": 27,
+      "Adaptability & Continuous Learning": 45,
+      "Decision-Making and Judgment": 15
+    }
+  },
+  "2025": {
+    "total_posts": 1050,
+    "categories": {
+      "Communication Skills": 112,
+      "Collaboration and Team Dynamics": 53,
+      "Emotional Intelligence (EQ)": 51,
+      "Time Management and Organizational Skills": 0,
+      "Work Ethic and Professionalism": 77,
+      "Creativity and Inovation": 42,
+      "Customer Service and Client Management": 2,
+      "Problem-Solving and Critical Thinking": 4,
+      "Adaptability & Continuous Learning": 8,
+      "Decision-Making and Judgment": 1
+    }
+  }
+}
