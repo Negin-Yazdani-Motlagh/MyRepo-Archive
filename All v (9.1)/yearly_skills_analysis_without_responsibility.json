@@ -1,0 +1,2431 @@
+{
+  "2011": {
+    "total_posts": 1361,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "verbal communication": 3,
+          "oratory": 3,
+          "persuasion": 1,
+          "influencing": 1,
+          "presentation": 5,
+          "documentation": 1,
+          "translating": 1,
+          "networking": 26,
+          "social networking": 9,
+          "digital communication": 3,
+          "influence": 15,
+          "product presentation": 1,
+          "public speaking": 2,
+          "written communication": 1,
+          "copywriting": 1,
+          "documenting": 2,
+          "friendliness": 1
+        },
+        "total_mentions": 76,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "team player": 8,
+          "leadership": 10,
+          "leading by example": 2,
+          "collaboration tools": 1,
+          "patience": 1,
+          "collaborating": 1,
+          "resilience": 2,
+          "supportive": 1,
+          "knowledge sharing": 2,
+          "providing guidance": 1
+        },
+        "total_mentions": 29,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "scrappy": 10,
+          "motivated": 23,
+          "energetic": 8,
+          "taking initiative": 1,
+          "independence": 4
+        },
+        "total_mentions": 46,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "time management": 1,
+          "self-discipline": 1
+        },
+        "total_mentions": 2,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "dependability": 1,
+          "initiative": 9,
+          "precision": 1,
+          "commitment": 10,
+          "ambition": 6,
+          "attention to detail": 11,
+          "careful": 3
+        },
+        "total_mentions": 41,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 23,
+          "creative thinking": 1,
+          "conceptualization": 1,
+          "brainstorming": 3,
+          "imagination": 1
+        },
+        "total_mentions": 29,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "customer satisfaction": 2
+        },
+        "total_mentions": 2,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "analytical thinking": 1,
+          "comparative analysis": 2,
+          "resourceful": 2
+        },
+        "total_mentions": 5,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "willingness to learn": 6,
+          "agility": 1
+        },
+        "total_mentions": 7,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "risk management": 1
+        },
+        "total_mentions": 1,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2012": {
+    "total_posts": 2595,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "verbal communication": 14,
+          "public speaking": 2,
+          "oratory": 1,
+          "influencing": 1,
+          "convincing": 1,
+          "presentation": 27,
+          "written communication": 7,
+          "documentation": 23,
+          "storytelling": 6,
+          "documenting": 3,
+          "preparing reports": 1,
+          "gestures": 5,
+          "empathy": 1,
+          "negotiation": 2,
+          "networking": 61,
+          "social networking": 10,
+          "digital communication": 1,
+          "influence": 38,
+          "sales pitch": 2,
+          "marketing content": 1,
+          "translating": 4,
+          "mediation": 1,
+          "self-expression": 1,
+          "document analysis": 1
+        },
+        "total_mentions": 214,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 5,
+          "sharing ideas": 2,
+          "team player": 24,
+          "leadership": 28,
+          "accountability": 9,
+          "collaboration tools": 5,
+          "workflow management": 3,
+          "resilience": 2,
+          "patience": 1,
+          "supportive": 7,
+          "streamlining processes": 1,
+          "knowledge sharing": 2
+        },
+        "total_mentions": 89,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "motivated": 74,
+          "energetic": 14,
+          "independence": 4,
+          "empathy": 1,
+          "scrappy": 2,
+          "self-driven": 1,
+          "taking initiative": 3,
+          "self-motivation": 1
+        },
+        "total_mentions": 100,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "time management": 1,
+          "organization skills": 1
+        },
+        "total_mentions": 2,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "initiative": 38,
+          "careful": 13,
+          "commitment": 17,
+          "ambition": 11,
+          "learning-driven": 1,
+          "persistence ": 6,
+          "attention to detail": 30,
+          "comitted": 1,
+          "integrity": 5,
+          "goal-oriented": 1
+        },
+        "total_mentions": 123,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 69,
+          "creative thinking": 3,
+          "ideation": 5,
+          "conceptualization": 1,
+          "brainstorming": 6,
+          "strategic vision": 3,
+          "imagination": 2
+        },
+        "total_mentions": 89,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "client relations": 2,
+          "understanding consumer behavior": 1
+        },
+        "total_mentions": 3,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "resourceful": 6,
+          "analytical thinking": 1,
+          "root cause analysis": 2,
+          "creative problem-solving": 1
+        },
+        "total_mentions": 10,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "willingness to learn": 10,
+          "resourcefulness": 1,
+          "change management": 1,
+          "agility": 2,
+          "learning agility": 1
+        },
+        "total_mentions": 15,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "prioritization": 8
+        },
+        "total_mentions": 8,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2013": {
+    "total_posts": 3171,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "verbal communication": 19,
+          "public speaking": 10,
+          "oratory": 9,
+          "influencing": 5,
+          "presentation": 31,
+          "written communication": 16,
+          "documentation": 43,
+          "documenting": 5,
+          "translating": 5,
+          "posture": 2,
+          "empathy": 4,
+          "negotiation": 4,
+          "networking": 89,
+          "mutual respect": 1,
+          "social networking": 14,
+          "digital communication": 2,
+          "remote collaboration": 1,
+          "influence": 59,
+          "storytelling": 8,
+          "interpersonal communication": 1,
+          "instant messaging": 3,
+          "listening skills": 1,
+          "providing feedback": 1,
+          "eloquence": 1,
+          "technical writing": 2,
+          "copywriting": 2,
+          "creative writing": 1,
+          "document analysis": 1,
+          "gestures": 1,
+          "conflict resolution": 1,
+          "self-expression": 1,
+          "friendliness": 2,
+          "visual communication": 1,
+          "sales pitch": 1,
+          "product presentation": 1
+        },
+        "total_mentions": 348,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 32,
+          "sharing ideas": 5,
+          "team player": 70,
+          "leadership": 40,
+          "accountability": 5,
+          "workflow management": 3,
+          "patience": 1,
+          "supportive": 4,
+          "knowledge sharing": 18,
+          "streamlining processes": 2,
+          "resilience": 2,
+          "collaboration tools": 2,
+          "being accountable": 1
+        },
+        "total_mentions": 185,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "scrappy": 13,
+          "motivated": 89,
+          "energetic": 32,
+          "self-driven": 11,
+          "taking initiative": 2,
+          "empathy": 4,
+          "relationship management": 1,
+          "independence": 3,
+          "self-awareness": 1,
+          "self-motivation": 1
+        },
+        "total_mentions": 157,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "organization skills": 1,
+          "self-discipline": 4,
+          "delegation": 1,
+          "time management": 1,
+          "being organized": 2,
+          "maintaining a healthy work-life balance": 1
+        },
+        "total_mentions": 10,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 12,
+          "initiative": 34,
+          "careful": 24,
+          "precision": 4,
+          "commitment": 25,
+          "professionalism": 5,
+          "ambition": 21,
+          "driven professionals": 2,
+          "learning-driven": 1,
+          "community-driven": 2,
+          "persistence ": 4,
+          "attention to detail": 33,
+          "diligence": 4,
+          "mission-driven": 2,
+          "drive to learn": 2,
+          "goal-oriented": 3
+        },
+        "total_mentions": 178,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 80,
+          "creative thinking": 5,
+          "ideation": 2,
+          "brainstorming": 9,
+          "imagination": 4,
+          "strategic vision": 1
+        },
+        "total_mentions": 101,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "client relations": 6,
+          "relationship management": 1,
+          "customer satisfaction": 2,
+          "delivering solutions": 2
+        },
+        "total_mentions": 11,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "creative problem-solving": 10,
+          "resourceful": 8,
+          "critical thinking": 5,
+          "out-of-the-box thinking": 1
+        },
+        "total_mentions": 24,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "agility": 3,
+          "willingness to learn": 15,
+          "learning agility": 1,
+          "resourcefulness": 3,
+          "self-directed learning": 1,
+          "self-improvement": 2
+        },
+        "total_mentions": 25,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "risk management": 2,
+          "prioritization": 7
+        },
+        "total_mentions": 9,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2014": {
+    "total_posts": 4317,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "verbal communication": 39,
+          "oratory": 15,
+          "influencing": 14,
+          "convincing": 1,
+          "pronunciation": 1,
+          "presentation": 42,
+          "written communication": 22,
+          "technical writing": 10,
+          "documentation": 96,
+          "storytelling": 16,
+          "documenting": 13,
+          "document analysis": 8,
+          "translating": 4,
+          "posture": 5,
+          "empathy": 7,
+          "compassion": 9,
+          "conflict resolution": 2,
+          "networking": 109,
+          "social networking": 8,
+          "digital communication": 2,
+          "instant messaging": 3,
+          "texting": 8,
+          "visual communication": 4,
+          "influence": 108,
+          "public speaking": 6,
+          "business reports": 1,
+          "interpersonal communication": 2,
+          "friendliness": 4,
+          "remote collaboration": 1,
+          "providing feedback": 1,
+          "copywriting": 1,
+          "sales pitch": 1,
+          "drafting": 2,
+          "non-verbal communication": 2,
+          "mediation": 2,
+          "mutual respect": 2,
+          "listening skills": 1
+        },
+        "total_mentions": 572,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 37,
+          "team player": 132,
+          "leadership": 95,
+          "accountability": 10,
+          "collaboration tools": 4,
+          "resilience": 4,
+          "patience": 5,
+          "supportive": 27,
+          "knowledge sharing": 18,
+          "workflow management": 2,
+          "building consensus": 1
+        },
+        "total_mentions": 335,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "self-awareness": 1,
+          "self-motivation": 7,
+          "scrappy": 12,
+          "motivated": 183,
+          "energetic": 42,
+          "independence": 11,
+          "empathy": 7,
+          "relationship management": 3,
+          "working autonomously": 2,
+          "being self-driven": 1,
+          "self-driven": 1,
+          "social skills": 2
+        },
+        "total_mentions": 272,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "time management": 9,
+          "organization skills": 4,
+          "delegation": 3,
+          "self-discipline": 2,
+          "scheduling and planning": 1
+        },
+        "total_mentions": 19,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 23,
+          "diligence": 14,
+          "goal-oriented": 5,
+          "initiative": 61,
+          "careful": 21,
+          "precision": 9,
+          "commitment": 42,
+          "professionalism": 4,
+          "ambition": 35,
+          "mission-driven": 13,
+          "drive to learn": 2,
+          "persistence ": 12,
+          "attention to detail": 58,
+          "community-driven": 2,
+          "taking accountability": 1,
+          "result-driven": 1
+        },
+        "total_mentions": 303,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 109,
+          "creative thinking": 6,
+          "ideation": 2,
+          "conceptualization": 4,
+          "imagination": 6,
+          "brainstorming": 3
+        },
+        "total_mentions": 130,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "relationship management": 3,
+          "customer satisfaction": 9,
+          "client engagement": 1,
+          "client relations": 4
+        },
+        "total_mentions": 17,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "critical thinking": 6,
+          "systems thinking": 5,
+          "out-of-the-box thinking": 2,
+          "resourceful": 19,
+          "analytical thinking": 1,
+          "root cause analysis": 1
+        },
+        "total_mentions": 34,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "agility": 8,
+          "willingness to learn": 17,
+          "self-improvement": 14,
+          "resourcefulness": 3,
+          "lifelong learning": 4,
+          "change management": 1,
+          "self-directed learning": 1
+        },
+        "total_mentions": 48,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "prioritization": 4,
+          "risk management": 1
+        },
+        "total_mentions": 5,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2016": {
+    "total_posts": 8035,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "verbal communication": 19,
+          "public speaking": 8,
+          "oratory": 35,
+          "influencing": 6,
+          "presentation": 49,
+          "written communication": 15,
+          "documentation": 87,
+          "storytelling": 10,
+          "translating": 9,
+          "body language": 3,
+          "posture": 7,
+          "interpersonal communication": 3,
+          "empathy": 53,
+          "negotiation": 12,
+          "networking": 132,
+          "mutual respect": 10,
+          "social networking": 3,
+          "influence": 113,
+          "convincing": 7,
+          "instructional writing": 1,
+          "documenting": 10,
+          "digital communication": 1,
+          "logical reasoning": 1,
+          "persuasion": 2,
+          "technical writing": 4,
+          "drafting": 2,
+          "remote collaboration": 1,
+          "texting": 3,
+          "marketing content": 1,
+          "report writing": 1,
+          "mediation": 3,
+          "visual communication": 1,
+          "conflict resolution": 1,
+          "casual conversation": 1,
+          "compassion": 1,
+          "professional relationships": 1
+        },
+        "total_mentions": 616,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 56,
+          "team player": 42,
+          "leadership": 152,
+          "accountability": 32,
+          "supportive": 37,
+          "knowledge sharing": 40,
+          "collaborative interaction": 2,
+          "collaboration tools": 4,
+          "resilience": 7,
+          "workflow management": 1
+        },
+        "total_mentions": 373,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "self-motivation": 6,
+          "motivated": 220,
+          "energetic": 38,
+          "self-driven": 13,
+          "working autonomously": 4,
+          "independence": 25,
+          "empathy": 53,
+          "self-awareness": 2,
+          "scrappy": 13,
+          "taking initiative": 4,
+          "relationship management": 3,
+          "social skills": 1
+        },
+        "total_mentions": 382,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "organization skills": 7,
+          "delegation": 1,
+          "self-discipline": 1,
+          "time management": 4,
+          "punctuality": 1
+        },
+        "total_mentions": 14,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "dependability": 3,
+          "initiative": 110,
+          "careful": 27,
+          "precision": 22,
+          "commitment": 47,
+          "ambition": 56,
+          "mission-driven": 47,
+          "community-driven": 3,
+          "attention to detail": 25,
+          "integrity": 25,
+          "learning-driven": 2,
+          "persistence ": 1,
+          "diligence": 8,
+          "professionalism": 4,
+          "drive to learn": 3,
+          "goal-oriented": 1
+        },
+        "total_mentions": 384,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 273,
+          "ideation": 6,
+          "brainstorming": 9,
+          "imagination": 9,
+          "conceptualization": 1,
+          "creative thinking": 3
+        },
+        "total_mentions": 301,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "customer satisfaction": 7,
+          "relationship management": 3,
+          "delivering solutions": 4,
+          "client relations": 4,
+          "client engagement": 3,
+          "customer-centric approach": 1
+        },
+        "total_mentions": 22,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "out-of-the-box thinking": 10,
+          "resourceful": 18,
+          "root cause analysis": 4,
+          "systems thinking": 2,
+          "critical thinking": 2,
+          "strategic thinking": 2
+        },
+        "total_mentions": 38,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "willingness to learn": 16,
+          "self-improvement": 14,
+          "overcoming challenges": 1,
+          "lifelong learning": 1,
+          "open-mindedness": 7,
+          "agility": 5,
+          "change management": 5,
+          "resourcefulness": 4
+        },
+        "total_mentions": 53,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "prioritization": 9,
+          "risk management": 14
+        },
+        "total_mentions": 23,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2017": {
+    "total_posts": 9437,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "verbal communication": 27,
+          "oratory": 25,
+          "influencing": 6,
+          "convincing": 12,
+          "presentation": 46,
+          "written communication": 37,
+          "documentation": 115,
+          "storytelling": 18,
+          "document analysis": 1,
+          "translating": 7,
+          "body movement": 6,
+          "empathy": 46,
+          "mediation": 5,
+          "negotiation": 6,
+          "networking": 152,
+          "mutual respect": 10,
+          "influence": 139,
+          "public speaking": 4,
+          "deriving insights": 1,
+          "gestures": 2,
+          "compassion": 2,
+          "social networking": 13,
+          "visual communication": 1,
+          "tone of voice": 1,
+          "drafting": 1,
+          "haptics": 1,
+          "digital communication": 1,
+          "persuasion": 2,
+          "posture": 5,
+          "remote collaboration": 1,
+          "technical writing": 10,
+          "marketing content": 1,
+          "relationship building": 1,
+          "instant messaging": 3,
+          "copywriting": 4,
+          "casual conversation": 1,
+          "dispute resolution": 1,
+          "creative writing": 2,
+          "documenting": 2,
+          "providing feedback": 1
+        },
+        "total_mentions": 719,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 69,
+          "team player": 48,
+          "leadership": 159,
+          "accountability": 37,
+          "collaboration tools": 6,
+          "workflow management": 12,
+          "supportive": 55,
+          "resilience": 4,
+          "patience": 3,
+          "knowledge sharing": 26,
+          "brainstorming together": 2,
+          "providing guidance": 1,
+          "building consensus": 2,
+          "working with diverse teams": 1,
+          "building trust": 1,
+          "shared vision": 1
+        },
+        "total_mentions": 427,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "scrappy": 22,
+          "motivated": 297,
+          "energetic": 43,
+          "self-driven": 14,
+          "independence": 23,
+          "empathy": 46,
+          "relationship management": 14,
+          "taking initiative": 1,
+          "self-motivation": 7,
+          "self-awareness": 1,
+          "being self-driven": 1
+        },
+        "total_mentions": 469,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "time management": 12,
+          "prioritizing tasks": 1,
+          "task prioritization": 1
+        },
+        "total_mentions": 14,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 56,
+          "diligence": 14,
+          "initiative": 154,
+          "careful": 24,
+          "precision": 30,
+          "commitment": 70,
+          "professionalism": 11,
+          "ambition": 62,
+          "mission-driven": 29,
+          "drive to learn": 2,
+          "persistence ": 5,
+          "attention to detail": 35,
+          "driven professionals": 2,
+          "result-driven": 2,
+          "learning-driven": 8,
+          "goal-oriented": 3,
+          "dependability": 1,
+          "committed to delivering results": 1
+        },
+        "total_mentions": 509,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 318,
+          "creative thinking": 3,
+          "ideation": 16,
+          "conceptualization": 1,
+          "imagination": 14,
+          "strategic vision": 8,
+          "brainstorming": 4,
+          "shared vision": 1
+        },
+        "total_mentions": 365,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "client relations": 2,
+          "relationship management": 14,
+          "customer satisfaction": 10,
+          "client engagement": 9,
+          "service excellence": 2
+        },
+        "total_mentions": 37,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "critical thinking": 9,
+          "resourceful": 13,
+          "systems thinking": 3,
+          "strategic thinking": 2,
+          "out-of-the-box thinking": 1
+        },
+        "total_mentions": 28,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "open-mindedness": 14,
+          "agility": 11,
+          "willingness to learn": 22,
+          "self-improvement": 15,
+          "resourcefulness": 2,
+          "change management": 3,
+          "self-directed learning": 1
+        },
+        "total_mentions": 68,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "risk management": 15,
+          "prioritization": 6
+        },
+        "total_mentions": 21,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2018": {
+    "total_posts": 9692,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "oratory": 24,
+          "convincing": 13,
+          "presentation": 67,
+          "written communication": 23,
+          "documentation": 86,
+          "storytelling": 18,
+          "translating": 15,
+          "eye contact": 1,
+          "posture": 8,
+          "empathy": 52,
+          "compassion": 18,
+          "networking": 113,
+          "mutual respect": 14,
+          "social networking": 7,
+          "remote collaboration": 2,
+          "texting": 3,
+          "influence": 128,
+          "verbal communication": 20,
+          "influencing": 15,
+          "technical writing": 16,
+          "documenting": 19,
+          "friendliness": 2,
+          "instant messaging": 1,
+          "chat communication": 2,
+          "visual communication": 3,
+          "listening skills": 6,
+          "public speaking": 2,
+          "marketing content": 1,
+          "formal communication": 2,
+          "facial expressions": 1,
+          "mediation": 3,
+          "be trusted": 4,
+          "negotiation": 4,
+          "persuasion": 1,
+          "interpersonal communication": 3,
+          "online engagement": 1,
+          "document analysis": 1,
+          "body language": 2,
+          "casual conversation": 1,
+          "copywriting": 1,
+          "drafting": 1,
+          "digital communication": 1,
+          "gestures": 1,
+          "diplomacy": 1
+        },
+        "total_mentions": 707,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 82,
+          "team player": 78,
+          "leadership": 196,
+          "leading by example": 20,
+          "accountability": 42,
+          "building trust": 3,
+          "collaboration tools": 6,
+          "workflow management": 10,
+          "shared vision": 4,
+          "supportive": 86,
+          "resilience": 5,
+          "providing guidance": 2,
+          "brainstorming together": 3,
+          "knowledge sharing": 16,
+          "patience": 5,
+          "providing constructive feedback": 2,
+          "setting an example": 1
+        },
+        "total_mentions": 561,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "self-awareness": 8,
+          "scrappy": 44,
+          "motivated": 269,
+          "energetic": 33,
+          "self-driven": 29,
+          "working autonomously": 3,
+          "independence": 21,
+          "empathy": 52,
+          "self-regulation": 1,
+          "relationship management": 5,
+          "self-motivation": 8,
+          "taking initiative": 4
+        },
+        "total_mentions": 477,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "time management": 2,
+          "delegation": 3,
+          "organization skills": 2
+        },
+        "total_mentions": 7,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 21,
+          "initiative": 155,
+          "careful": 25,
+          "precision": 37,
+          "commitment": 71,
+          "ambition": 63,
+          "driven professionals": 12,
+          "mission-driven": 42,
+          "learning-driven": 4,
+          "drive to learn": 6,
+          "persistence ": 12,
+          "attention to detail": 42,
+          "dependability": 2,
+          "diligence": 16,
+          "community-driven": 1,
+          "result-driven": 2,
+          "taking accountability": 1,
+          "professionalism": 2
+        },
+        "total_mentions": 514,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 355,
+          "ideation": 18,
+          "brainstorming": 7,
+          "shared vision": 4,
+          "creative thinking": 3,
+          "strategic vision": 5,
+          "imagination": 3
+        },
+        "total_mentions": 395,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "client relations": 8,
+          "client engagement": 3,
+          "relationship management": 5,
+          "customer-centric approach": 2,
+          "customer satisfaction": 4,
+          "delivering solutions": 3
+        },
+        "total_mentions": 25,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "critical thinking": 19,
+          "resourceful": 20,
+          "systems thinking": 5,
+          "strategic thinking": 1,
+          "root cause analysis": 1
+        },
+        "total_mentions": 46,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "open-mindedness": 13,
+          "agility": 18,
+          "willingness to learn": 40,
+          "self-improvement": 9,
+          "knowledge acquisition": 1,
+          "lifelong learning": 1
+        },
+        "total_mentions": 82,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "risk management": 16,
+          "prioritization": 14
+        },
+        "total_mentions": 30,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2019": {
+    "total_posts": 8462,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "verbal communication": 8,
+          "oratory": 32,
+          "influencing": 15,
+          "convincing": 5,
+          "presentation": 53,
+          "written communication": 14,
+          "technical writing": 30,
+          "documentation": 48,
+          "copywriting": 3,
+          "marketing content": 2,
+          "drafting": 6,
+          "documenting": 15,
+          "translating": 21,
+          "empathy": 73,
+          "mediation": 6,
+          "negotiation": 6,
+          "networking": 114,
+          "mutual respect": 10,
+          "remote collaboration": 6,
+          "influence": 79,
+          "selling skills": 1,
+          "listening skills": 8,
+          "posture": 5,
+          "compassion": 12,
+          "self-expression": 1,
+          "friendliness": 4,
+          "sales pitch": 1,
+          "interpersonal communication": 2,
+          "report writing": 1,
+          "storytelling": 6,
+          "digital communication": 1,
+          "texting": 3,
+          "cultural sensitivity": 2,
+          "professional relationships": 1,
+          "social networking": 1
+        },
+        "total_mentions": 595,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 80,
+          "team player": 62,
+          "leadership": 248,
+          "building consensus": 9,
+          "accountability": 19,
+          "collaboration tools": 6,
+          "patience": 5,
+          "supportive": 57,
+          "knowledge sharing": 10,
+          "resilience": 9,
+          "shared vision": 1,
+          "leading by example": 8,
+          "building trust": 1,
+          "workflow management": 6
+        },
+        "total_mentions": 521,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "scrappy": 42,
+          "motivated": 214,
+          "energetic": 16,
+          "independence": 26,
+          "empathy": 73,
+          "creating trust": 4,
+          "relationship management": 1,
+          "social skills": 1,
+          "self-driven": 11,
+          "working autonomously": 1,
+          "self-awareness": 6,
+          "self-motivation": 2
+        },
+        "total_mentions": 397,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "delegation": 1,
+          "maintaining a healthy work-life balance": 2,
+          "organizational collaboration": 1,
+          "prioritizing tasks": 3,
+          "organization skills": 2
+        },
+        "total_mentions": 9,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 37,
+          "diligence": 17,
+          "initiative": 150,
+          "careful": 16,
+          "precision": 49,
+          "commitment": 65,
+          "ambition": 59,
+          "driven professionals": 11,
+          "mission-driven": 52,
+          "community-driven": 7,
+          "drive to learn": 4,
+          "persistence ": 9,
+          "attention to detail": 21,
+          "taking accountability": 1,
+          "result-driven": 2,
+          "professionalism": 7,
+          "learning-driven": 2,
+          "goal-oriented": 3,
+          "comitted": 1
+        },
+        "total_mentions": 513,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 350,
+          "ideation": 11,
+          "imagination": 3,
+          "shared vision": 1,
+          "brainstorming": 2,
+          "creative thinking": 2
+        },
+        "total_mentions": 369,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "client relations": 11,
+          "client engagement": 6,
+          "relationship management": 1,
+          "customer satisfaction": 6,
+          "customer-centric approach": 1,
+          "delivering solutions": 1
+        },
+        "total_mentions": 26,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "critical thinking": 12,
+          "analytical thinking": 1,
+          "resourceful": 18,
+          "root cause analysis": 1,
+          "strategic thinking": 2,
+          "systems thinking": 1,
+          "tactical execution": 1,
+          "creative problem-solving": 4
+        },
+        "total_mentions": 40,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "open-mindedness": 7,
+          "agility": 19,
+          "willingness to learn": 27,
+          "lifelong learning": 7,
+          "knowledge acquisition": 1
+        },
+        "total_mentions": 61,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "strategic decision-making": 18,
+          "risk management": 21,
+          "prioritization": 7
+        },
+        "total_mentions": 46,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2020": {
+    "total_posts": 7137,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "verbal communication": 15,
+          "oratory": 45,
+          "influencing": 3,
+          "tone of voice": 1,
+          "presentation": 43,
+          "written communication": 7,
+          "documentation": 90,
+          "drafting": 3,
+          "translating": 24,
+          "posture": 2,
+          "gestures": 1,
+          "empathy": 61,
+          "compassion": 6,
+          "mediation": 6,
+          "negotiation": 24,
+          "networking": 86,
+          "remote collaboration": 6,
+          "online engagement": 1,
+          "texting": 4,
+          "influence": 77,
+          "technical writing": 18,
+          "documenting": 9,
+          "be trusted": 1,
+          "storytelling": 10,
+          "dispute resolution": 1,
+          "relationship building": 1,
+          "mutual respect": 5,
+          "providing feedback": 1,
+          "social networking": 2,
+          "public speaking": 2,
+          "self-expression": 3,
+          "listening skills": 1,
+          "paraphrasing": 1
+        },
+        "total_mentions": 560,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 56,
+          "team player": 38,
+          "leadership": 176,
+          "accountability": 30,
+          "building trust": 9,
+          "collaboration tools": 1,
+          "supportive": 36,
+          "resilience": 7,
+          "knowledge sharing": 6,
+          "helping teammates": 1,
+          "workflow management": 4,
+          "shared vision": 3,
+          "building consensus": 5,
+          "patience": 1,
+          "collaborative interaction": 2,
+          "working with diverse teams": 1
+        },
+        "total_mentions": 376,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "self-motivation": 11,
+          "scrappy": 33,
+          "motivated": 176,
+          "energetic": 15,
+          "independence": 15,
+          "empathy": 61,
+          "social skills": 5,
+          "self-driven": 5,
+          "relationship management": 1,
+          "self-regulation": 1,
+          "working autonomously": 1
+        },
+        "total_mentions": 324,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "time management": 2,
+          "organization skills": 1,
+          "organizational communication": 1,
+          "organizational leadership": 1,
+          "delegation": 2,
+          "self-discipline": 2
+        },
+        "total_mentions": 9,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 23,
+          "dependability": 1,
+          "diligence": 11,
+          "initiative": 128,
+          "careful": 23,
+          "precision": 24,
+          "commitment": 43,
+          "professionalism": 2,
+          "ambition": 60,
+          "mission-driven": 59,
+          "community-driven": 6,
+          "persistence ": 3,
+          "attention to detail": 32,
+          "civility": 1,
+          "paying attention to details": 1,
+          "paying attention to detail": 1
+        },
+        "total_mentions": 418,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 212,
+          "ideation": 8,
+          "brainstorming": 3,
+          "imagination": 6,
+          "strategic vision": 1,
+          "shared vision": 3
+        },
+        "total_mentions": 233,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "customer-centric approach": 2,
+          "delivering solutions": 3,
+          "relationship management": 1,
+          "client relations": 2,
+          "client engagement": 1,
+          "customer satisfaction": 2
+        },
+        "total_mentions": 11,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "analytical thinking": 5,
+          "resourceful": 11,
+          "critical thinking": 2,
+          "strategic thinking": 1
+        },
+        "total_mentions": 19,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "agility": 11,
+          "willingness to learn": 12,
+          "self-improvement": 3,
+          "open-mindedness": 1,
+          "resourcefulness": 5,
+          "development mindset": 1,
+          "lifelong learning": 1
+        },
+        "total_mentions": 34,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "risk management": 19,
+          "prioritization": 6,
+          "strategic decision-making": 10
+        },
+        "total_mentions": 35,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2021": {
+    "total_posts": 10321,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "verbal communication": 14,
+          "oratory": 39,
+          "influencing": 6,
+          "presentation": 40,
+          "written communication": 16,
+          "documentation": 116,
+          "storytelling": 52,
+          "translating": 22,
+          "posture": 8,
+          "empathy": 96,
+          "compassion": 15,
+          "mediation": 22,
+          "negotiation": 14,
+          "networking": 171,
+          "texting": 22,
+          "influence": 118,
+          "be trusted": 2,
+          "technical writing": 20,
+          "documenting": 12,
+          "visual engagement": 3,
+          "social networking": 4,
+          "digital communication": 10,
+          "instant messaging": 4,
+          "sales pitch": 1,
+          "logical reasoning": 1,
+          "drafting": 1,
+          "professional relationships": 2,
+          "digital interaction": 2,
+          "chat communication": 1,
+          "document analysis": 1,
+          "mutual respect": 3,
+          "remote collaboration": 4,
+          "listening skills": 2,
+          "creative writing": 1,
+          "self-expression": 1,
+          "tone of voice": 1,
+          "visual communication": 2,
+          "diplomacy": 2,
+          "convincing": 1
+        },
+        "total_mentions": 852,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 72,
+          "sharing ideas": 3,
+          "team player": 92,
+          "leadership": 256,
+          "accountability": 25,
+          "building trust": 1,
+          "collaboration tools": 9,
+          "workflow management": 11,
+          "resilience": 19,
+          "patience": 3,
+          "supportive": 68,
+          "knowledge sharing": 16,
+          "building consensus": 1,
+          "shared vision": 2,
+          "eliminating barriers": 1
+        },
+        "total_mentions": 579,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "scrappy": 41,
+          "motivated": 232,
+          "self-driven": 21,
+          "independence": 33,
+          "empathy": 96,
+          "energetic": 23,
+          "self-motivation": 6,
+          "relationship management": 2,
+          "social skills": 1,
+          "working autonomously": 1,
+          "taking initiative": 2,
+          "creating trust": 1
+        },
+        "total_mentions": 459,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "organizational decision-making": 1,
+          "self-discipline": 1,
+          "time management": 2,
+          "delegation": 1
+        },
+        "total_mentions": 5,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 27,
+          "diligence": 17,
+          "initiative": 154,
+          "careful": 33,
+          "precision": 32,
+          "commitment": 77,
+          "ambition": 96,
+          "mission-driven": 103,
+          "learning-driven": 5,
+          "community-driven": 6,
+          "persistence ": 1,
+          "attention to detail": 24,
+          "professionalism": 3,
+          "result-driven": 3,
+          "drive to learn": 2,
+          "goal-oriented": 4
+        },
+        "total_mentions": 587,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 306,
+          "ideation": 24,
+          "imagination": 5,
+          "creative thinking": 1,
+          "shared vision": 2
+        },
+        "total_mentions": 338,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "client relations": 10,
+          "relationship management": 2,
+          "customer satisfaction": 4,
+          "delivering solutions": 6,
+          "client engagement": 2,
+          "customer-centric approach": 1
+        },
+        "total_mentions": 25,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "critical thinking": 3,
+          "analytical thinking": 10,
+          "out-of-the-box thinking": 2,
+          "resourceful": 18,
+          "systems thinking": 1,
+          "tactical execution": 1
+        },
+        "total_mentions": 35,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "open-mindedness": 12,
+          "agility": 12,
+          "willingness to learn": 20,
+          "resourcefulness": 13,
+          "self-improvement": 5,
+          "change management": 1
+        },
+        "total_mentions": 63,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "risk management": 24,
+          "strategic decision-making": 2,
+          "prioritization": 2
+        },
+        "total_mentions": 28,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2022": {
+    "total_posts": 7628,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "verbal communication": 10,
+          "public speaking": 8,
+          "oratory": 53,
+          "influencing": 8,
+          "convincing": 8,
+          "presentation": 29,
+          "written communication": 19,
+          "technical writing": 28,
+          "documentation": 105,
+          "documenting": 2,
+          "empathy": 63,
+          "compassion": 17,
+          "mediation": 20,
+          "negotiation": 6,
+          "diplomacy": 4,
+          "networking": 140,
+          "social networking": 7,
+          "digital communication": 9,
+          "texting": 4,
+          "influence": 105,
+          "pronunciation": 1,
+          "storytelling": 22,
+          "document analysis": 1,
+          "translating": 11,
+          "conflict resolution": 2,
+          "sales pitch": 2,
+          "mutual respect": 1,
+          "digital interaction": 1,
+          "instant messaging": 1,
+          "chat communication": 2,
+          "logical reasoning": 1,
+          "posture": 3,
+          "friendliness": 1,
+          "remote collaboration": 2,
+          "interpersonal communication": 1,
+          "business reports": 1
+        },
+        "total_mentions": 698,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 50,
+          "team player": 32,
+          "leadership": 183,
+          "accountability": 10,
+          "resilience": 14,
+          "shared vision": 5,
+          "supportive": 81,
+          "workflow management": 1,
+          "patience": 3,
+          "building trust": 4,
+          "collaboration tools": 6,
+          "knowledge sharing": 10,
+          "streamlining processes": 1
+        },
+        "total_mentions": 400,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "scrappy": 21,
+          "motivated": 150,
+          "energetic": 7,
+          "taking initiative": 4,
+          "independence": 23,
+          "empathy": 63,
+          "self-driven": 11
+        },
+        "total_mentions": 279,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "time management": 1,
+          "organizational leadership": 1,
+          "self-discipline": 1
+        },
+        "total_mentions": 3,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 37,
+          "diligence": 7,
+          "goal-oriented": 3,
+          "initiative": 80,
+          "careful": 17,
+          "precision": 36,
+          "commitment": 56,
+          "ambition": 75,
+          "mission-driven": 59,
+          "learning-driven": 10,
+          "drive to learn": 9,
+          "attention to detail": 16,
+          "professionalism": 15,
+          "community-driven": 5,
+          "persistence ": 3,
+          "result-driven": 1
+        },
+        "total_mentions": 429,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 250,
+          "ideation": 25,
+          "brainstorming": 5,
+          "shared vision": 5,
+          "strategic vision": 3,
+          "conceptualization": 1,
+          "imagination": 1
+        },
+        "total_mentions": 290,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "client relations": 4,
+          "customer satisfaction": 5,
+          "client engagement": 3,
+          "delivering solutions": 2,
+          "customer-centric approach": 1
+        },
+        "total_mentions": 15,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "analytical thinking": 4,
+          "resourceful": 21,
+          "systems thinking": 2,
+          "root cause analysis": 3,
+          "creative problem-solving": 1,
+          "strategic thinking": 2,
+          "critical thinking": 2,
+          "out-of-the-box thinking": 1
+        },
+        "total_mentions": 36,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "willingness to learn": 9,
+          "self-improvement": 4,
+          "resourcefulness": 13,
+          "agility": 7,
+          "open-mindedness": 6,
+          "lifelong learning": 1,
+          "self-directed learning": 1
+        },
+        "total_mentions": 41,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "prioritization": 7,
+          "risk management": 8
+        },
+        "total_mentions": 15,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2023": {
+    "total_posts": 4200,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "public speaking": 6,
+          "oratory": 35,
+          "influencing": 4,
+          "pronunciation": 2,
+          "presentation": 26,
+          "documentation": 66,
+          "documenting": 9,
+          "translating": 11,
+          "posture": 9,
+          "empathy": 18,
+          "compassion": 5,
+          "mediation": 7,
+          "negotiation": 10,
+          "networking": 86,
+          "social networking": 5,
+          "influence": 62,
+          "verbal communication": 1,
+          "convincing": 2,
+          "written communication": 3,
+          "storytelling": 6,
+          "texting": 1,
+          "sales pitch": 1,
+          "pathos": 1,
+          "remote collaboration": 1,
+          "be trusted": 1,
+          "persuasion": 1,
+          "copywriting": 1,
+          "drafting": 1,
+          "providing feedback": 1
+        },
+        "total_mentions": 382,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 53,
+          "team player": 32,
+          "leadership": 74,
+          "accountability": 7,
+          "collaboration tools": 1,
+          "workflow management": 10,
+          "resilience": 15,
+          "patience": 4,
+          "shared vision": 1,
+          "supportive": 20,
+          "knowledge sharing": 2,
+          "building trust": 1,
+          "streamlining processes": 1
+        },
+        "total_mentions": 221,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "scrappy": 13,
+          "motivated": 101,
+          "energetic": 5,
+          "self-driven": 9,
+          "taking initiative": 3,
+          "independence": 16,
+          "empathy": 18,
+          "relationship management": 2,
+          "self-motivation": 2
+        },
+        "total_mentions": 169,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "self-discipline": 3,
+          "optimizing resources": 2
+        },
+        "total_mentions": 5,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 25,
+          "diligence": 5,
+          "initiative": 55,
+          "careful": 10,
+          "precision": 18,
+          "commitment": 15,
+          "professionalism": 4,
+          "ambition": 51,
+          "mission-driven": 26,
+          "learning-driven": 5,
+          "community-driven": 12,
+          "drive to learn": 4,
+          "persistence ": 2,
+          "attention to detail": 11,
+          "goal-oriented": 3,
+          "result-driven": 1
+        },
+        "total_mentions": 247,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 181,
+          "ideation": 6,
+          "conceptualization": 2,
+          "strategic vision": 1,
+          "shared vision": 1,
+          "imagination": 2,
+          "brainstorming": 1
+        },
+        "total_mentions": 194,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "client relations": 10,
+          "customer satisfaction": 2,
+          "relationship management": 2
+        },
+        "total_mentions": 14,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "out-of-the-box thinking": 1,
+          "resourceful": 8,
+          "analytical thinking": 2,
+          "creative problem-solving": 5
+        },
+        "total_mentions": 16,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "change management": 2,
+          "agility": 9,
+          "willingness to learn": 8,
+          "self-improvement": 9,
+          "resourcefulness": 1
+        },
+        "total_mentions": 29,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "risk management": 4,
+          "prioritization": 5,
+          "strategic decision-making": 2
+        },
+        "total_mentions": 11,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2024": {
+    "total_posts": 3973,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "public speaking": 2,
+          "oratory": 19,
+          "influencing": 5,
+          "presentation": 28,
+          "written communication": 5,
+          "technical writing": 4,
+          "documentation": 72,
+          "marketing content": 1,
+          "storytelling": 8,
+          "drafting": 3,
+          "translating": 5,
+          "gestures": 3,
+          "empathy": 10,
+          "negotiation": 10,
+          "networking": 53,
+          "mutual respect": 5,
+          "remote collaboration": 2,
+          "influence": 60,
+          "listening skills": 1,
+          "verbal communication": 3,
+          "copywriting": 1,
+          "documenting": 3,
+          "document analysis": 1,
+          "posture": 6,
+          "friendliness": 1
+        },
+        "total_mentions": 311,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 37,
+          "team player": 26,
+          "leadership": 78,
+          "accountability": 7,
+          "collaboration tools": 4,
+          "workflow management": 2,
+          "resilience": 10,
+          "supportive": 26,
+          "knowledge sharing": 4
+        },
+        "total_mentions": 194,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "self-awareness": 1,
+          "scrappy": 14,
+          "motivated": 92,
+          "taking initiative": 4,
+          "independence": 9,
+          "empathy": 10,
+          "self-motivation": 3,
+          "energetic": 3,
+          "self-driven": 3
+        },
+        "total_mentions": 139,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "organization skills": 1,
+          "maintaining a healthy work-life balance": 1
+        },
+        "total_mentions": 2,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 23,
+          "dependability": 6,
+          "diligence": 1,
+          "initiative": 61,
+          "careful": 18,
+          "precision": 21,
+          "commitment": 19,
+          "ambition": 36,
+          "driven professionals": 1,
+          "goal-driven": 1,
+          "mission-driven": 34,
+          "community-driven": 7,
+          "drive to learn": 1,
+          "persistence ": 2,
+          "attention to detail": 9
+        },
+        "total_mentions": 240,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 164,
+          "brainstorming": 2,
+          "strategic vision": 4,
+          "ideation": 11
+        },
+        "total_mentions": 181,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "client engagement": 2,
+          "customer satisfaction": 5,
+          "client relations": 3
+        },
+        "total_mentions": 10,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "systems thinking": 1,
+          "resourceful": 7,
+          "critical thinking": 1,
+          "creative problem-solving": 2,
+          "strategic thinking": 1
+        },
+        "total_mentions": 12,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "agility": 6,
+          "willingness to learn": 8,
+          "self-improvement": 3,
+          "resourcefulness": 2
+        },
+        "total_mentions": 19,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "strategic decision-making": 4,
+          "risk management": 1,
+          "prioritization": 1
+        },
+        "total_mentions": 6,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2015": {
+    "total_posts": 5858,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "verbal communication": 13,
+          "public speaking": 6,
+          "oratory": 22,
+          "presentation": 51,
+          "written communication": 14,
+          "documentation": 55,
+          "report writing": 1,
+          "documenting": 13,
+          "translating": 8,
+          "empathy": 25,
+          "conflict resolution": 2,
+          "negotiation": 8,
+          "networking": 117,
+          "social networking": 6,
+          "friendliness": 4,
+          "texting": 2,
+          "visual communication": 4,
+          "influence": 72,
+          "listening skills": 1,
+          "persuasion": 1,
+          "influencing": 6,
+          "technical writing": 6,
+          "storytelling": 14,
+          "drafting": 2,
+          "business correspondence": 1,
+          "posture": 5,
+          "compassion": 4,
+          "mutual respect": 3,
+          "remote collaboration": 3,
+          "empathetic listening": 2,
+          "document analysis": 2,
+          "interpersonal communication": 1,
+          "be trusted": 2,
+          "copywriting": 2,
+          "self-expression": 1,
+          "sales pitch": 2,
+          "haptics": 1,
+          "instant messaging": 1,
+          "product presentation": 1,
+          "providing feedback": 1
+        },
+        "total_mentions": 485,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 34,
+          "team player": 60,
+          "leadership": 95,
+          "leading by example": 2,
+          "accountability": 13,
+          "collaboration tools": 5,
+          "supportive": 30,
+          "resilience": 8,
+          "shared vision": 1,
+          "knowledge sharing": 12,
+          "building trust": 1,
+          "workflow management": 1,
+          "sharing ideas": 1,
+          "patience": 3
+        },
+        "total_mentions": 266,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "scrappy": 14,
+          "motivated": 170,
+          "energetic": 38,
+          "self-driven": 9,
+          "independence": 9,
+          "empathy": 25,
+          "relationship management": 6,
+          "being self-driven": 1,
+          "working autonomously": 2,
+          "taking initiative": 1
+        },
+        "total_mentions": 275,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {
+          "time management": 7,
+          "delegation": 6
+        },
+        "total_mentions": 13,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 13,
+          "diligence": 2,
+          "initiative": 66,
+          "careful": 13,
+          "precision": 17,
+          "commitment": 32,
+          "professionalism": 7,
+          "ambition": 50,
+          "driven professionals": 1,
+          "mission-driven": 15,
+          "persistence ": 7,
+          "attention to detail": 33,
+          "goal-oriented": 2,
+          "community-driven": 1,
+          "result-driven": 1,
+          "drive to learn": 1
+        },
+        "total_mentions": 261,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 184,
+          "ideation": 10,
+          "brainstorming": 10,
+          "shared vision": 1,
+          "imagination": 1,
+          "creative thinking": 1
+        },
+        "total_mentions": 207,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "client relations": 4,
+          "relationship management": 6,
+          "client engagement": 3,
+          "customer satisfaction": 7,
+          "delivering solutions": 1
+        },
+        "total_mentions": 21,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "out-of-the-box thinking": 2,
+          "resourceful": 15,
+          "root cause analysis": 3,
+          "critical thinking": 5,
+          "creative problem-solving": 1,
+          "strategic thinking": 1
+        },
+        "total_mentions": 27,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "change management": 7,
+          "agility": 9,
+          "self-improvement": 7,
+          "willingness to learn": 20,
+          "resourcefulness": 2
+        },
+        "total_mentions": 45,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "risk management": 9,
+          "prioritization": 6
+        },
+        "total_mentions": 15,
+        "num_subcategories": 27
+      }
+    }
+  },
+  "2025": {
+    "total_posts": 1050,
+    "skills": {
+      "Communication Skills": {
+        "subcategories": {
+          "oratory": 1,
+          "influencing": 1,
+          "presentation": 13,
+          "written communication": 1,
+          "documentation": 16,
+          "copywriting": 2,
+          "creative writing": 2,
+          "storytelling": 6,
+          "drafting": 1,
+          "documenting": 1,
+          "translating": 3,
+          "posture": 5,
+          "empathy": 4,
+          "compassion": 1,
+          "conflict resolution": 2,
+          "mediation": 1,
+          "negotiation": 8,
+          "networking": 21,
+          "mutual respect": 1,
+          "influence": 21,
+          "selling skills": 1
+        },
+        "total_mentions": 112,
+        "num_subcategories": 355
+      },
+      "Collaboration and Team Dynamics": {
+        "subcategories": {
+          "collaborating": 9,
+          "team player": 4,
+          "leadership": 26,
+          "proactively solving problems": 1,
+          "accountability": 1,
+          "collaboration tools": 1,
+          "workflow management": 1,
+          "resilience": 2,
+          "shared vision": 1,
+          "supportive": 5,
+          "knowledge sharing": 2
+        },
+        "total_mentions": 53,
+        "num_subcategories": 184
+      },
+      "Emotional Intelligence (EQ)": {
+        "subcategories": {
+          "self-awareness": 3,
+          "scrappy": 2,
+          "motivated": 29,
+          "energetic": 1,
+          "self-driven": 3,
+          "taking initiative": 1,
+          "independence": 7,
+          "empathy": 4,
+          "self-motivation": 1
+        },
+        "total_mentions": 51,
+        "num_subcategories": 108
+      },
+      "Time Management and Organizational Skills": {
+        "subcategories": {},
+        "total_mentions": 0,
+        "num_subcategories": 144
+      },
+      "Work Ethic and Professionalism": {
+        "subcategories": {
+          "integrity": 4,
+          "initiative": 18,
+          "proactive problem-solving": 1,
+          "careful": 1,
+          "precision": 7,
+          "commitment": 7,
+          "civility": 1,
+          "ambition": 16,
+          "mission-driven": 12,
+          "community-driven": 2,
+          "drive to learn": 1,
+          "attention to detail": 7
+        },
+        "total_mentions": 77,
+        "num_subcategories": 149
+      },
+      "Creativity and Inovation": {
+        "subcategories": {
+          "innovation": 38,
+          "ideation": 1,
+          "imagination": 2,
+          "shared vision": 1
+        },
+        "total_mentions": 42,
+        "num_subcategories": 31
+      },
+      "Customer Service and Client Management": {
+        "subcategories": {
+          "client relations": 2
+        },
+        "total_mentions": 2,
+        "num_subcategories": 36
+      },
+      "Problem-Solving and Critical Thinking": {
+        "subcategories": {
+          "resourceful": 3,
+          "out-of-the-box thinking": 1
+        },
+        "total_mentions": 4,
+        "num_subcategories": 68
+      },
+      "Adaptability & Continuous Learning": {
+        "subcategories": {
+          "agility": 5,
+          "willingness to learn": 2,
+          "resourcefulness": 1
+        },
+        "total_mentions": 8,
+        "num_subcategories": 77
+      },
+      "Decision-Making and Judgment": {
+        "subcategories": {
+          "risk management": 1
+        },
+        "total_mentions": 1,
+        "num_subcategories": 27
+      }
+    }
+  }
+}
