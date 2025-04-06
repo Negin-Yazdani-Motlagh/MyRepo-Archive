@@ -1,0 +1,110 @@
+{
+  "dict91_combined": {
+    "2012": {
+      "total_posts": 2595,
+      "count": 303
+    },
+    "2013": {
+      "total_posts": 3171,
+      "count": 533
+    },
+    "2014": {
+      "total_posts": 4317,
+      "count": 907
+    },
+    "2015": {
+      "total_posts": 5858,
+      "count": 751
+    },
+    "2016": {
+      "total_posts": 8035,
+      "count": 989
+    },
+    "2017": {
+      "total_posts": 9437,
+      "count": 1146
+    },
+    "2018": {
+      "total_posts": 9692,
+      "count": 1268
+    },
+    "2019": {
+      "total_posts": 8462,
+      "count": 1116
+    },
+    "2020": {
+      "total_posts": 7137,
+      "count": 936
+    },
+    "2021": {
+      "total_posts": 10321,
+      "count": 1431
+    },
+    "2022": {
+      "total_posts": 7628,
+      "count": 1098
+    },
+    "2023": {
+      "total_posts": 4200,
+      "count": 603
+    },
+    "2024": {
+      "total_posts": 3973,
+      "count": 505
+    }
+  },
+  "dict11_interpersonal": {
+    "2012": {
+      "total_posts": 2595,
+      "count": 330
+    },
+    "2013": {
+      "total_posts": 3171,
+      "count": 583
+    },
+    "2014": {
+      "total_posts": 4317,
+      "count": 1007
+    },
+    "2015": {
+      "total_posts": 5858,
+      "count": 872
+    },
+    "2016": {
+      "total_posts": 8035,
+      "count": 1192
+    },
+    "2017": {
+      "total_posts": 9437,
+      "count": 1377
+    },
+    "2018": {
+      "total_posts": 9692,
+      "count": 1492
+    },
+    "2019": {
+      "total_posts": 8462,
+      "count": 1399
+    },
+    "2020": {
+      "total_posts": 7137,
+      "count": 1159
+    },
+    "2021": {
+      "total_posts": 10321,
+      "count": 1757
+    },
+    "2022": {
+      "total_posts": 7628,
+      "count": 1314
+    },
+    "2023": {
+      "total_posts": 4200,
+      "count": 685
+    },
+    "2024": {
+      "total_posts": 3973,
+      "count": 580
+    }
+  }
+}
