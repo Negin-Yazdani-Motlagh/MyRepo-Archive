@@ -1,0 +1,106 @@
+{
+  "2012": {
+    "total_posts": 203,
+    "categories": {
+      "conceptual/thinking skills": 22,
+      "Interpersonal & Leadership Skills": 39,
+      "Personal Effectiveness & Growth": 21
+    }
+  },
+  "2013": {
+    "total_posts": 265,
+    "categories": {
+      "conceptual/thinking skills": 18,
+      "Interpersonal & Leadership Skills": 49,
+      "Personal Effectiveness & Growth": 51
+    }
+  },
+  "2014": {
+    "total_posts": 416,
+    "categories": {
+      "Personal Effectiveness & Growth": 85,
+      "Interpersonal & Leadership Skills": 120,
+      "conceptual/thinking skills": 17
+    }
+  },
+  "2015": {
+    "total_posts": 549,
+    "categories": {
+      "Interpersonal & Leadership Skills": 75,
+      "Personal Effectiveness & Growth": 68,
+      "conceptual/thinking skills": 29
+    }
+  },
+  "2016": {
+    "total_posts": 936,
+    "categories": {
+      "conceptual/thinking skills": 68,
+      "Interpersonal & Leadership Skills": 110,
+      "Personal Effectiveness & Growth": 79
+    }
+  },
+  "2017": {
+    "total_posts": 1432,
+    "categories": {
+      "conceptual/thinking skills": 95,
+      "Interpersonal & Leadership Skills": 188,
+      "Personal Effectiveness & Growth": 155
+    }
+  },
+  "2018": {
+    "total_posts": 1689,
+    "categories": {
+      "Interpersonal & Leadership Skills": 231,
+      "Personal Effectiveness & Growth": 178,
+      "conceptual/thinking skills": 128
+    }
+  },
+  "2019": {
+    "total_posts": 1493,
+    "categories": {
+      "Interpersonal & Leadership Skills": 187,
+      "conceptual/thinking skills": 114,
+      "Personal Effectiveness & Growth": 156
+    }
+  },
+  "2020": {
+    "total_posts": 1291,
+    "categories": {
+      "Interpersonal & Leadership Skills": 252,
+      "conceptual/thinking skills": 81,
+      "Personal Effectiveness & Growth": 152
+    }
+  },
+  "2021": {
+    "total_posts": 1705,
+    "categories": {
+      "Personal Effectiveness & Growth": 182,
+      "Interpersonal & Leadership Skills": 375,
+      "conceptual/thinking skills": 91
+    }
+  },
+  "2022": {
+    "total_posts": 1432,
+    "categories": {
+      "Interpersonal & Leadership Skills": 274,
+      "Personal Effectiveness & Growth": 157,
+      "conceptual/thinking skills": 107
+    }
+  },
+  "2023": {
+    "total_posts": 1060,
+    "categories": {
+      "Interpersonal & Leadership Skills": 176,
+      "conceptual/thinking skills": 78,
+      "Personal Effectiveness & Growth": 103
+    }
+  },
+  "2024": {
+    "total_posts": 1375,
+    "categories": {
+      "Interpersonal & Leadership Skills": 193,
+      "Personal Effectiveness & Growth": 127,
+      "conceptual/thinking skills": 78
+    }
+  }
+}
